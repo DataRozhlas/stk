@@ -1,0 +1,49 @@
+Změny na STK 2018:
+ 
+Kolik vozidel letos neprošlo prohlídkou na stanicí technické kontroly? Kolik emisní kontrolou? (čísla k nějakému datu, které zvládnete)
+ 
+Počet provedených „pravidelných technických prohlídek“ za období od 1.1. do 16.12.2018 (374 provozoven STK)
+ 
+celkem 2.650.621 s hodnocením:
+způsobilé:                         2.423.570 (tj. 91,4 %)
+částečně způsobilé:            200.417 (tj.   7,6 %)
+nezpůsobilé:                    26.634 (tj.   1,0 %)
+ 
+Počet provedených měření emisí Protokol o měření emisí za období od 1.1. do 16.12.2018 (957 provozoven SME)
+Celkem 2.498.086 s výsledkem:
+bez závad:                         2.441.486 (tj. 97,7 %)
+se závadou                        56.600 (tj.    2,3 %)    
+ 
+Zvýšil se podle vás počet nevyhovujících vozidel po zavedení novely silničního zákona? Přísnější pravidla platí od října.
+ 
+Zatím se jedná o příliš krátkou dobu. Výsledky jsou srovnatelné s loňským rokem, kdy na STK neprošlo přibližně 1 % vozidel a na SME cca 2,3 % vozidel.
+ 
+Máte-li pak na mysli např. měření tzv. kouřivosti – zde platí, že i když pak takové auto obecně splní emise, nedosažená hodnota kouřivosti max. 0,25 m-1 poukáže na nefunkční nebo chybějící filtr pevných částic – a bude se jednat o závadu typu B. Tato závada, stejně jako v případě tachometrů, musí být do 30 dnů odstraněna (vozidlo jde do 30 dnů na opakovanou prohlídku), jinak vozidlo ztratí technickou způsobilost. V tuto chvíli nicméně nevedeme průběžnou statistiku jednotlivých závad, díky za pochopení.
+ 
+Pomohly odhalit přísnější evidence při technické kontrole auta se stočeným tachometrem? Kolik?
+ 
+Určitě pomáhá všem majitelům takových vozidel do budoucna. Hlavním účelem zákona totiž není řešení věcí z minulosti ani sankce; za minulostí jsme udělali tlustou čáru a chráníme budoucí majitele takových vozidel – ti nyní již budou mít zprávu o tom, že s tachometrem vozidla bylo manipulováno (i pokud výměnu tachometru provedl a protokol vystavil sám provozovatel vozidla, budou vědět, že se s autem manipulovalo a při nákupu budou obezřetnější).
+ 
+Na příští rok pak chystáme úpravu aplikace, která kraje, jenž tyto přestupky řeší, bude automaticky informovat, když na STK bude vozidlo s nižším stavem tachometru než při předchozí kontrole – a kraje tak ihned dostanou podnět k řešení.
+ 
+Zatím totiž podle našich informací žádná pokuta v souvislosti se stáčením tachometrů už padla. Věc nicméně řeší krajské úřady, které nás o tom nemají povinnost informovat. Ministerstvo dopravy je v této věci pouze odvolacím orgánem.
+ 
+Už dříve jsme uváděli, že majitele vozidel, kteří byli podvedeni, nechceme sankcionovat; sankce míří na jednotlivce či společnosti, kteří provádí nelegální úpravu tachometru za úplatu.
+ 
+Řešíme pak i připojení k zahraničním databázím, abychom se mohli zaměřit i na dovážená auta; na web kotrolatachometru.cz si lidé už nyní mohou ověřit stav km při předchozí kontrole pouze po zadání VIN.
+ 
+Co takovému provozovateli auta hrozí a co mají lidé dělat, když něco podobného zjistí?
+ 
+V praxi na STK je postup takový, že pakliže při kontrole na STK dojde ke zjištění nižšího stavu kilometrů na počítadle tachometru než při předchozí kontrole, provozovatel takového vozidla má na odstranění této tzv. vážné závady (typu B) lhůtu 30 dnů.
+ 
+Během této doby musí předložit platný protokol o provedení opravy nebo výměny počítadla ujeté vzdálenosti (který si v případě, že opravu provedl sám, může provozovatel vystavit i sám), jinak vozidlo ztratí technickou způsobilost.
+ 
+Ovšem jak jsem naznačil, díváme se dopředu, dozadu nemá smysl někoho sankcionovat. Navíc pokud vozidlo bylo na evidenční kontrole a provozovatel sám tachometr neupravoval, nemá se čeho obávat, číslo bude logicky vyšší. To říkáme od počátku.
+ 
+Požádal nějaký autorizovaný servis, že si chce zřídit vlastní STK?
+ 
+Tyto věcí řeší přímo kraje, které nejsou povinné nám to hlásit; dozvíme se o tom příp. až v rámci odvolacího procesu.
+ 
+Vy máte nově možnost kontrol stanic, jestli technici při prohlídce technici nepodvádějí, kolik kontrol jste provedli?
+ 
+Takovýchto kontrol na STK a SME jsme letos provedli 200. U SME jsme posílali na ORP celkem 6 oznámení o přestupcích; jednalo se ve většině případů o užívání neschválených přístrojů; na STK jsme posílali oznámení o 21 přestupcích; jednalo se zde o případy situací, že se dělala zpětná prohlídka auta, které původně prošlo… a projít dle skutečného technického stavu nemělo.

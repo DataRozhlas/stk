@@ -1,0 +1,26 @@
+---
+title: "Rešerše k datům o výsledcích STK"
+output:
+  html_document:
+    df_print: paged
+---
+
+## 1. Německo celkově
+
+Podle [poslední TÜV Report](https://www.tuv.com/de/deutschland/ueber_uns/presse/meldungen/newscontentde_411712.html) v Německu při pravidelných technických prohlídkách neprošlo 21,2 % testovaných vozidel. Jedná se o data z *pravidelných technických prohlídek* 8,8 milionů *osobních aut*, přičemž metodologie TÜV se zaměřuje na 230 nejrozšířenějších modelů na německých silnicích.
+
+![výsledky německých technických prohlídek](https://www.tuv.com/media/01_presse_2/all_languages_pressemeldungen/tuev_report_2019/Maengelstatistik_Gesamtuebersicht.jpg)
+
+## 2. Česko celkově
+
+České ministerstvo dopravy podobně detailní data o českých vozidlech sice také shromažďuje, ale ani na žádost Českého rozhlasu je zatím nezveřejnilo. Datoví novináři o ně proto žádají podle zákona 106/1999 o svobodném přístupu k informacím.
+
+Ze [statistických souhrnů](https://www.mdcr.cz/Statistiky?searchtext=&searchmode=allwords&mssfdt=&mssfdf=&mssfd=Silni%C4%8Dn%C3%AD+doprava&mssff=STK), které ministerstvo dopravy publikuje na webu, lze vyčíst, že při 1,9 milionu *pravidelných* technických kontrol *osobních automobilů* byla od 1. ledna do 31. prosince 2018 drtivá většina (92 procentaa, tedy 1,75 milionu aut) shledáno způsobilými k provozu a jen 1 procento (19 tisíc aut) bylo nezpůsobilých. Přes 133 tisíc osobních aut (7 procent) pak bylo částečně způsobilých.
+
+## 3. Rozdíly v "přísnosti" mezi jednotlivými STK
+
+Některé stanice dělají za rok jen jednotky nebo desítky kontrol, proto mohou být jejich výsledky snadno ovlivněné několika málo auty. Do srovnání proto zahrnujeme jen "velké" STK, které loni provedly alespoň tisíc pravidelných prohlídek osobních aut.
+
+Z nich vychází jako *"nejpřísnější"* ABA STKáčko s.r.o., Zábřežská 658/73, Šumperk, 583 213 800, 583 217 477	abastk@spk.cz. Z 3423 pravidelných technických prohlídek tam loni bylo způsobilých jen 75,96 procenta osobních automobilů. 3,45 %, tedy 118 aut bylo nezpůsobilých, 20,6 %, tedy 705 aut pak bylo částečně způsobilých. Hypotéza: Chudý kraj, dovozy ojetin?
+
+Nejméně "přísná" z velkých STK je pak DISKARD STK spol. s r.o., Jeremiášova 870, Praha 5, 723 904 805. Z 9 637 osobních aut, které tam loni přijely na pravidelnou TP, jich prošlo 9 523, tedy 98,82 procent. Nezpůsbilých bylo jen sedm aut (0,07 procenta), částečně způsobilých 107 (1,11 procenta).
