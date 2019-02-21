@@ -58,7 +58,7 @@ Provedli jsme analýzu dvěma způsoby:
 1. Nejdřív jsme se zeptali které dvě stanice s více než 1000 provedených kontrol měly loni nejrozdílnější výsledky uvnitř jedné obce s rozšířenou působností.
 2. Pak jsme všem stanicím přiřadili geografické souřadnice a hledali stanice co nejbližší (vzdušnou čarou), které měly zároveň největší rozdíl v procentu způsobilých osobních aut.
 
-Obě metody přinesly stejný výsledek. Nejbližší STK s nejrozdílnějšími výsledky jsou v Šumperku, vzdálené od sebe pět kilometrů:
+Obě metody přinesly stejný výsledek. Nejbližší STK s nejrozdílnějšími výsledky jsou v Šumperku:
 
 ```{r echo=FALSE}
 vysledky_2018_adresy %>%
