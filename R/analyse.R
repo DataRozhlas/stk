@@ -48,3 +48,4 @@ vysledky_2018_adresy %>%
 
 vysledky_2018_adresy %>%
   filter(orp=="Šumperk")
+

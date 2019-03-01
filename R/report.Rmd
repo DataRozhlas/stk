@@ -1,11 +1,11 @@
 ---
 title: "Výsledky STK"
 output: 
-  html_notebook:
-    theme: united
+  html_document:
     toc: yes
     toc_float: true
-  html_document:
+  html_notebook:
+    theme: united
     toc: yes
     toc_float: true
 ---
