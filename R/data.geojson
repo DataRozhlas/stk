@@ -1,0 +1,6979 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.3488987,50.0679091 ]
+    },
+    "properties": {
+    "prohlidky_celkem":11831,
+    "docasne_zpusoblile_pocet":715,
+    "nezpusobile_pocet":58,
+    "zpusobile_pocet":11058,
+    "prum_poc_zavad_lehke":1.58,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Praha 5",
+    "ulice":"Plzeňská 215b",
+    "provozovatel":"STK MOTOL S.R.O.",
+    "telefon":"257210963",
+    "email":"stk@stkmotol.cz",
+    "zpusobile_pct":93.47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5020591,50.0652264 ]
+    },
+    "properties": {
+    "prohlidky_celkem":10831,
+    "docasne_zpusoblile_pocet":744,
+    "nezpusobile_pocet":83,
+    "zpusobile_pocet":10004,
+    "prum_poc_zavad_lehke":2.69,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Praha 10",
+    "ulice":"Průběžná 76",
+    "provozovatel":"STK Praha, s.r.o.",
+    "telefon":"274774867",
+    "email":"stk@aboservis.cz",
+    "zpusobile_pct":92.36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.3154421,50.059612 ]
+    },
+    "properties": {
+    "prohlidky_celkem":9637,
+    "docasne_zpusoblile_pocet":107,
+    "nezpusobile_pocet":7,
+    "zpusobile_pocet":9523,
+    "prum_poc_zavad_lehke":1.44,
+    "prum_poc_zavad_vazne":0.02,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Praha 5",
+    "ulice":"Jeremiášova 870",
+    "provozovatel":"DISKARD STK spol. s r.o.",
+    "telefon":"723904805",
+    "email":"info@stk-diskard.cz",
+    "zpusobile_pct":98.82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4737673,50.0109236 ]
+    },
+    "properties": {
+    "prohlidky_celkem":32,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":32,
+    "prum_poc_zavad_lehke":2.25,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Praha 4",
+    "ulice":"Dobronická 635",
+    "provozovatel":"STK Kunratice spol. s r.o.",
+    "telefon":"261 112 399, 261 112 597",
+    "email":"stk-kunratice-nakladni@dekra.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.3609149,50.0869283 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6889,
+    "docasne_zpusoblile_pocet":933,
+    "nezpusobile_pocet":61,
+    "zpusobile_pocet":5895,
+    "prum_poc_zavad_lehke":1.73,
+    "prum_poc_zavad_vazne":0.36,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Praha 6",
+    "ulice":"Radimova 39",
+    "provozovatel":"Břevnovská STK s.r.o.",
+    "telefon":"220513268",
+    "email":"brevnovska.stk@seznam.cz",
+    "zpusobile_pct":85.57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4368361,50.1269857 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4376,
+    "docasne_zpusoblile_pocet":92,
+    "nezpusobile_pocet":4,
+    "zpusobile_pocet":4280,
+    "prum_poc_zavad_lehke":3.03,
+    "prum_poc_zavad_vazne":0.06,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Praha 8",
+    "ulice":"Čimická 894/131",
+    "provozovatel":"Antonín Indra STK ,spol. s r.o.",
+    "telefon":"233557743",
+    "email":"stk-cimice@volny.cz",
+    "zpusobile_pct":97.81
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4982725,50.0898434 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5352,
+    "docasne_zpusoblile_pocet":267,
+    "nezpusobile_pocet":27,
+    "zpusobile_pocet":5058,
+    "prum_poc_zavad_lehke":1.73,
+    "prum_poc_zavad_vazne":0.12,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Praha 3",
+    "ulice":"Osiková 2688/2",
+    "provozovatel":"DEKRA CZ a.s.",
+    "telefon":"251002130",
+    "email":"stkjarov@dekra.cz",
+    "zpusobile_pct":94.51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5698168,50.0475029 ]
+    },
+    "properties": {
+    "prohlidky_celkem":11746,
+    "docasne_zpusoblile_pocet":752,
+    "nezpusobile_pocet":77,
+    "zpusobile_pocet":10917,
+    "prum_poc_zavad_lehke":1.46,
+    "prum_poc_zavad_vazne":0.17,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Praha 15",
+    "ulice":"K Měcholupům 3",
+    "provozovatel":"AUTO-VESELÝ, s.r.o.",
+    "telefon":"274 877 292",
+    "email":"vesely@stkmecholupy.cz",
+    "zpusobile_pct":92.94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.435748,50.0677085 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3908,
+    "docasne_zpusoblile_pocet":350,
+    "nezpusobile_pocet":42,
+    "zpusobile_pocet":3516,
+    "prum_poc_zavad_lehke":1.75,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Praha 2",
+    "ulice":"Fričova 13",
+    "provozovatel":"PRONTO STK s.r.o.",
+    "telefon":"222 564 115",
+    "email":"stkpraha@stkpraha.cz",
+    "zpusobile_pct":89.97
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4717994,50.061156 ]
+    },
+    "properties": {
+    "prohlidky_celkem":12745,
+    "docasne_zpusoblile_pocet":309,
+    "nezpusobile_pocet":24,
+    "zpusobile_pocet":12412,
+    "prum_poc_zavad_lehke":1.75,
+    "prum_poc_zavad_vazne":0.05,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Praha 10",
+    "ulice":"Nad Vršovskou horou 88/4",
+    "provozovatel":"STK Bohdalec s.r.o.",
+    "telefon":"267 107 485, 267 107 488",
+    "email":"info@stk-bohdalec.cz",
+    "zpusobile_pct":97.39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5155676,50.1041897 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3204,
+    "docasne_zpusoblile_pocet":267,
+    "nezpusobile_pocet":13,
+    "zpusobile_pocet":2924,
+    "prum_poc_zavad_lehke":1.79,
+    "prum_poc_zavad_vazne":0.25,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Praha 9",
+    "ulice":"Na Výběžku 688/11",
+    "provozovatel":"Pro-M, s.r.o.",
+    "telefon":"284 818 928, 284 818 927",
+    "email":"stkvysocany.cz@dekra.com",
+    "zpusobile_pct":91.26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4823968,50.1318778 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4943,
+    "docasne_zpusoblile_pocet":403,
+    "nezpusobile_pocet":26,
+    "zpusobile_pocet":4514,
+    "prum_poc_zavad_lehke":1.39,
+    "prum_poc_zavad_vazne":0.21,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Praha 8",
+    "ulice":"Bešťákova 567/3",
+    "provozovatel":"MYNOS STK, s.r.o.",
+    "telefon":"286 580 824",
+    "email":"stkstkpraha8@gmail.com",
+    "zpusobile_pct":91.32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5080102,50.1228168 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6621,
+    "docasne_zpusoblile_pocet":333,
+    "nezpusobile_pocet":36,
+    "zpusobile_pocet":6252,
+    "prum_poc_zavad_lehke":1.13,
+    "prum_poc_zavad_vazne":0.11,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Praha 9",
+    "ulice":"Prosecká 817",
+    "provozovatel":"DEKRA CZ a.s.",
+    "telefon":"283 881 307",
+    "email":"stk-prosek@dekra.cz",
+    "zpusobile_pct":94.43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4605203,50.0650143 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2096,
+    "docasne_zpusoblile_pocet":262,
+    "nezpusobile_pocet":28,
+    "zpusobile_pocet":1806,
+    "prum_poc_zavad_lehke":0.49,
+    "prum_poc_zavad_vazne":0.3,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Praha 10",
+    "ulice":"Přípotoční 300",
+    "provozovatel":"Zařízení služeb pro MV",
+    "telefon":"974844447",
+    "email":"stk3118@seznam.cz",
+    "zpusobile_pct":86.16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.3717036,49.9882415 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5496,
+    "docasne_zpusoblile_pocet":485,
+    "nezpusobile_pocet":54,
+    "zpusobile_pocet":4957,
+    "prum_poc_zavad_lehke":2,
+    "prum_poc_zavad_vazne":0.28,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Praha 5",
+    "ulice":"Výpadová 1559",
+    "provozovatel":"AUTO FEMAT s.r.o.",
+    "telefon":"242 410 660-1",
+    "email":"stk@femat-auto.cz",
+    "zpusobile_pct":90.19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5726652,50.1118808 ]
+    },
+    "properties": {
+    "prohlidky_celkem":12001,
+    "docasne_zpusoblile_pocet":1503,
+    "nezpusobile_pocet":62,
+    "zpusobile_pocet":10436,
+    "prum_poc_zavad_lehke":0.91,
+    "prum_poc_zavad_vazne":0.38,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Praha 14",
+    "ulice":"Skorkovská  1537",
+    "provozovatel":"TÜV NORD Czech, s.r.o.",
+    "telefon":"281 915 951, 281 915 952",
+    "email":"zizkovsky@tuev-nord.cz; stk-praha@tuev-nord.cz",
+    "zpusobile_pct":86.96
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4315625,50.109996 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7893,
+    "docasne_zpusoblile_pocet":426,
+    "nezpusobile_pocet":16,
+    "zpusobile_pocet":7451,
+    "prum_poc_zavad_lehke":1.1,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Praha 7",
+    "ulice":"Za elektrárnou 19",
+    "provozovatel":"STK Holešovice s.r.o.",
+    "telefon":"267052285",
+    "email":"stk@stkholesovice.cz",
+    "zpusobile_pct":94.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.2985113,50.0761624 ]
+    },
+    "properties": {
+    "prohlidky_celkem":9576,
+    "docasne_zpusoblile_pocet":513,
+    "nezpusobile_pocet":16,
+    "zpusobile_pocet":9047,
+    "prum_poc_zavad_lehke":1.2,
+    "prum_poc_zavad_vazne":0.14,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Praha 6",
+    "ulice":"Karlovarská 814",
+    "provozovatel":"NH group s.r.o.",
+    "telefon":"725392611",
+    "email":"stkrepy@stkrepy.cz",
+    "zpusobile_pct":94.48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4686202,50.0096488 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7781,
+    "docasne_zpusoblile_pocet":411,
+    "nezpusobile_pocet":43,
+    "zpusobile_pocet":7327,
+    "prum_poc_zavad_lehke":1.64,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Praha 4",
+    "ulice":"Dobronická 1216",
+    "provozovatel":"STK Kunratice spol. s r.o.",
+    "telefon":"242456194",
+    "email":"stkkunratice@gmail.cz",
+    "zpusobile_pct":94.17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4481109,50.1371928 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7729,
+    "docasne_zpusoblile_pocet":166,
+    "nezpusobile_pocet":19,
+    "zpusobile_pocet":7544,
+    "prum_poc_zavad_lehke":4.04,
+    "prum_poc_zavad_vazne":0.04,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Praha 8",
+    "ulice":"Dopraváků 723/1",
+    "provozovatel":"TEKOSO-STK spol.s r.o.",
+    "telefon":"283085164",
+    "email":"stk3124@seznam.cz",
+    "zpusobile_pct":97.61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5853287,50.0375902 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4345,
+    "docasne_zpusoblile_pocet":108,
+    "nezpusobile_pocet":6,
+    "zpusobile_pocet":4231,
+    "prum_poc_zavad_lehke":2.64,
+    "prum_poc_zavad_vazne":0.04,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Praha 10 Uhřiněves",
+    "ulice":"Podleská 1545/1",
+    "provozovatel":"PETRA s.r.o.",
+    "telefon":"267315085",
+    "email":"stk3125@seznam.cz",
+    "zpusobile_pct":97.38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4555694,50.0509007 ]
+    },
+    "properties": {
+    "prohlidky_celkem":10551,
+    "docasne_zpusoblile_pocet":1072,
+    "nezpusobile_pocet":71,
+    "zpusobile_pocet":9408,
+    "prum_poc_zavad_lehke":1.56,
+    "prum_poc_zavad_vazne":0.22,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Praha 4",
+    "ulice":"Ohradní",
+    "provozovatel":"PRONTO STK s.r.o.",
+    "telefon":"607691696",
+    "email":"stkpraha@stkpraha.cz",
+    "zpusobile_pct":89.17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4451634,50.1369367 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4116,
+    "docasne_zpusoblile_pocet":255,
+    "nezpusobile_pocet":49,
+    "zpusobile_pocet":3812,
+    "prum_poc_zavad_lehke":1.58,
+    "prum_poc_zavad_vazne":0.19,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Praha 9",
+    "ulice":"Dopraváků 874/15",
+    "provozovatel":"TEKOSO-STK spol.s r.o.",
+    "telefon":"273130110",
+    "email":"stk3127@seznam.cz",
+    "zpusobile_pct":92.61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4005974,50.0110434 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6449,
+    "docasne_zpusoblile_pocet":422,
+    "nezpusobile_pocet":13,
+    "zpusobile_pocet":6014,
+    "prum_poc_zavad_lehke":1.25,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Praha 4",
+    "ulice":"Mezi vodami 1097/25",
+    "provozovatel":"ESPM s.r.o.",
+    "telefon":"725888170",
+    "email":"info@stk-modrany.cz",
+    "zpusobile_pct":93.25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4929823,50.3473026 ]
+    },
+    "properties": {
+    "prohlidky_celkem":12093,
+    "docasne_zpusoblile_pocet":924,
+    "nezpusobile_pocet":115,
+    "zpusobile_pocet":11054,
+    "prum_poc_zavad_lehke":1.99,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Mělník",
+    "ulice":"Mladoboleslavská 2801",
+    "provozovatel":"STK Mělník Mladoboleslavská s.r.o.",
+    "telefon":"315623328",
+    "email":"stkmelnik@stkmelnik.cz;",
+    "zpusobile_pct":91.41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.0932067,50.2227793 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5136,
+    "docasne_zpusoblile_pocet":144,
+    "nezpusobile_pocet":27,
+    "zpusobile_pocet":4965,
+    "prum_poc_zavad_lehke":1.4,
+    "prum_poc_zavad_vazne":0.07,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Slaný",
+    "ulice":"Netovická 350",
+    "provozovatel":"TERRI s.r.o.",
+    "telefon":"312527670",
+    "email":"stk.slany@terri.cz",
+    "zpusobile_pct":96.67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.0690835,49.889265 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3846,
+    "docasne_zpusoblile_pocet":198,
+    "nezpusobile_pocet":24,
+    "zpusobile_pocet":3624,
+    "prum_poc_zavad_lehke":4.1,
+    "prum_poc_zavad_vazne":0.1,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Uhlířské Janovice",
+    "ulice":"Kolínská 670",
+    "provozovatel":"STK Janovice, s.r.o.",
+    "telefon":"327542266",
+    "email":"stkjanovice-osobni@seznam.cz",
+    "zpusobile_pct":94.23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.8757954,49.7884924 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5784,
+    "docasne_zpusoblile_pocet":409,
+    "nezpusobile_pocet":19,
+    "zpusobile_pocet":5356,
+    "prum_poc_zavad_lehke":3.99,
+    "prum_poc_zavad_vazne":0.14,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Divišov",
+    "ulice":"Na Pile 300",
+    "provozovatel":"STK Divišov s.r.o.",
+    "telefon":"317 855 330",
+    "email":"stkdivisov@volny.cz",
+    "zpusobile_pct":92.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.9641503,50.3614221 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5016,
+    "docasne_zpusoblile_pocet":348,
+    "nezpusobile_pocet":26,
+    "zpusobile_pocet":4642,
+    "prum_poc_zavad_lehke":2.58,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Dobrovice",
+    "ulice":"Kosořická 580",
+    "provozovatel":"STK - PECHA v.o.s.",
+    "telefon":"326398112",
+    "email":"pecha-stk@quick.cz",
+    "zpusobile_pct":92.54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.0716189,50.1495066 ]
+    },
+    "properties": {
+    "prohlidky_celkem":10175,
+    "docasne_zpusoblile_pocet":580,
+    "nezpusobile_pocet":274,
+    "zpusobile_pocet":9321,
+    "prum_poc_zavad_lehke":2.42,
+    "prum_poc_zavad_vazne":0.16,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Kladno",
+    "ulice":"Vašíčkova 71",
+    "provozovatel":"AUTOŠTOL-STK s r.o.",
+    "telefon":"312 267 113",
+    "email":"stk3207@stkkladno.cz",
+    "zpusobile_pct":91.61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.0022275,49.6971264 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5323,
+    "docasne_zpusoblile_pocet":458,
+    "nezpusobile_pocet":45,
+    "zpusobile_pocet":4820,
+    "prum_poc_zavad_lehke":3.43,
+    "prum_poc_zavad_vazne":0.25,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Příbram",
+    "ulice":"Obecnická 323",
+    "provozovatel":"ASOCOM spol. s r.o.",
+    "telefon":"318635564",
+    "email":"bergers@asocom.cz; manager@asocom.cz",
+    "zpusobile_pct":90.55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.0569025,50.1884242 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6168,
+    "docasne_zpusoblile_pocet":380,
+    "nezpusobile_pocet":106,
+    "zpusobile_pocet":5682,
+    "prum_poc_zavad_lehke":2.14,
+    "prum_poc_zavad_vazne":0.22,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Nymburk",
+    "ulice":"Maršála Koněva 660/44",
+    "provozovatel":"ŠPÁRA, s.r.o.",
+    "telefon":"325 513 653",
+    "email":"stk@spara.cz",
+    "zpusobile_pct":92.12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.2198608,50.0470271 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6359,
+    "docasne_zpusoblile_pocet":760,
+    "nezpusobile_pocet":66,
+    "zpusobile_pocet":5533,
+    "prum_poc_zavad_lehke":3.34,
+    "prum_poc_zavad_vazne":0.39,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Kolín",
+    "ulice":"Ovčárecká 509",
+    "provozovatel":"Stanice technické kontroly Kolín spol. s r.o.",
+    "telefon":"321724966",
+    "email":"info@stkkolin.cz",
+    "zpusobile_pct":87.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.2657225,49.8601953 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5549,
+    "docasne_zpusoblile_pocet":212,
+    "nezpusobile_pocet":22,
+    "zpusobile_pocet":5315,
+    "prum_poc_zavad_lehke":2.16,
+    "prum_poc_zavad_vazne":0.08,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Mníšek pod Brdy",
+    "ulice":"Nádražní 439",
+    "provozovatel":"INTERAUTO s.r.o.",
+    "telefon":"318592640",
+    "email":"interauto@volny.cz",
+    "zpusobile_pct":95.78
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.7459209,50.1021288 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7829,
+    "docasne_zpusoblile_pocet":378,
+    "nezpusobile_pocet":56,
+    "zpusobile_pocet":7395,
+    "prum_poc_zavad_lehke":3.4,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Rakovník II",
+    "ulice":"Luženská 1992",
+    "provozovatel":"AUTOFIJA s.r.o.",
+    "telefon":"313512332",
+    "email":"autofija@tiscali.cz",
+    "zpusobile_pct":94.46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6676449,50.1797235 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8279,
+    "docasne_zpusoblile_pocet":753,
+    "nezpusobile_pocet":85,
+    "zpusobile_pocet":7441,
+    "prum_poc_zavad_lehke":1.61,
+    "prum_poc_zavad_vazne":0.26,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Brandýs nad Labem-Stará Boleslav",
+    "ulice":"Zápská 2257",
+    "provozovatel":"STK Centrum spol. s r.o.",
+    "telefon":"326370055",
+    "email":"stk@stkbrandys.cz",
+    "zpusobile_pct":89.88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.1045903,50.1297495 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":2,
+    "prum_poc_zavad_lehke":1,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Kladno",
+    "ulice":"Železničářů 885 areál ČSAD",
+    "provozovatel":"TESTCAR s.r.o.",
+    "telefon":"312680016",
+    "email":"kladno@testcar.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.2929852,50.2398684 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5202,
+    "docasne_zpusoblile_pocet":304,
+    "nezpusobile_pocet":47,
+    "zpusobile_pocet":4851,
+    "prum_poc_zavad_lehke":1.74,
+    "prum_poc_zavad_vazne":0.14,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Kralupy nad Vltavou",
+    "ulice":"Přemyslova 431",
+    "provozovatel":"STK Kralupy s.r.o.",
+    "telefon":"315727897",
+    "email":"info@stkkralupy.cz",
+    "zpusobile_pct":93.25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.2854725,49.9526222 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5827,
+    "docasne_zpusoblile_pocet":422,
+    "nezpusobile_pocet":36,
+    "zpusobile_pocet":5369,
+    "prum_poc_zavad_lehke":4.1,
+    "prum_poc_zavad_vazne":0.17,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Kutná Hora",
+    "ulice":"Hrnčířská 207",
+    "provozovatel":"UNIKOM - STK s.r.o.",
+    "telefon":"327514515",
+    "email":"stk@unikom.cz",
+    "zpusobile_pct":92.14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.8815445,49.831382 ]
+    },
+    "properties": {
+    "prohlidky_celkem":21,
+    "docasne_zpusoblile_pocet":1,
+    "nezpusobile_pocet":1,
+    "zpusobile_pocet":19,
+    "prum_poc_zavad_lehke":2.62,
+    "prum_poc_zavad_vazne":0.14,
+    "prum_poc_zavad_nebezpecne":0.1,
+    "mesto":"Hořovice",
+    "ulice":"Masarykova 1432",
+    "provozovatel":"STK Hořovice spol. s r.o.",
+    "telefon":"311516727",
+    "email":"jcejka@stkhorovice.cz",
+    "zpusobile_pct":90.48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.9261958,50.4327606 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3655,
+    "docasne_zpusoblile_pocet":128,
+    "nezpusobile_pocet":62,
+    "zpusobile_pocet":3465,
+    "prum_poc_zavad_lehke":4.12,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Kosmonosy",
+    "ulice":"Boleslavská 1042",
+    "provozovatel":"BĚLOHRADSKÝ spol. s r.o.",
+    "telefon":"326 327 567",
+    "email":"stk3218@seznam.cz",
+    "zpusobile_pct":94.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.8628925,49.9943637 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6110,
+    "docasne_zpusoblile_pocet":356,
+    "nezpusobile_pocet":145,
+    "zpusobile_pocet":5609,
+    "prum_poc_zavad_lehke":2.44,
+    "prum_poc_zavad_vazne":0.17,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Kostelec nad Černými Lesy",
+    "ulice":"nám. Smiřických 16",
+    "provozovatel":"ČSAD POLKOST spol. s r.o.",
+    "telefon":"321 679 289, ústř. 679274",
+    "email":"stk.osobni@csadpolkost.cz",
+    "zpusobile_pct":91.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.1196674,49.7032043 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5543,
+    "docasne_zpusoblile_pocet":296,
+    "nezpusobile_pocet":101,
+    "zpusobile_pocet":5146,
+    "prum_poc_zavad_lehke":3.21,
+    "prum_poc_zavad_vazne":0.17,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Příbram I",
+    "ulice":"Drásov 121",
+    "provozovatel":"AUTO PETRA spol. s r.o.",
+    "telefon":"318 690 266, 318 690 391",
+    "email":"stkdrasov@volny.cz",
+    "zpusobile_pct":92.84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4102318,49.9034196 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5396,
+    "docasne_zpusoblile_pocet":204,
+    "nezpusobile_pocet":49,
+    "zpusobile_pocet":5143,
+    "prum_poc_zavad_lehke":2.33,
+    "prum_poc_zavad_vazne":0.11,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Březová-Oleško",
+    "ulice":"Hlavní 9",
+    "provozovatel":"AUTO PAŘÍZEK  s.r.o.",
+    "telefon":"257760944",
+    "email":"autoparizek@seznam.cz",
+    "zpusobile_pct":95.31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.7368106,49.7820131 ]
+    },
+    "properties": {
+    "prohlidky_celkem":10249,
+    "docasne_zpusoblile_pocet":461,
+    "nezpusobile_pocet":44,
+    "zpusobile_pocet":9744,
+    "prum_poc_zavad_lehke":2.3,
+    "prum_poc_zavad_vazne":0.11,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Benešov",
+    "ulice":"Dlouhé Pole",
+    "provozovatel":"REVIT spol. s r.o.",
+    "telefon":"317 726 351",
+    "email":"stkbenesov@seznam.cz",
+    "zpusobile_pct":95.07
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.8923674,49.8368273 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4846,
+    "docasne_zpusoblile_pocet":207,
+    "nezpusobile_pocet":21,
+    "zpusobile_pocet":4618,
+    "prum_poc_zavad_lehke":3.05,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Hořovice",
+    "ulice":"Masarykova 392",
+    "provozovatel":"STK JIKE s.r.o.",
+    "telefon":"311513777",
+    "email":"stk32_24@seznam.cz",
+    "zpusobile_pct":95.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.3478282,50.1400981 ]
+    },
+    "properties": {
+    "prohlidky_celkem":9953,
+    "docasne_zpusoblile_pocet":461,
+    "nezpusobile_pocet":17,
+    "zpusobile_pocet":9475,
+    "prum_poc_zavad_lehke":2.84,
+    "prum_poc_zavad_vazne":0.12,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Horoměřice",
+    "ulice":"Suchdolská 682",
+    "provozovatel":"JISTAB, a.s.",
+    "telefon":"220 970 079, 220 970 080",
+    "email":"stk@jistab.cz",
+    "zpusobile_pct":95.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4974505,50.1981876 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3830,
+    "docasne_zpusoblile_pocet":133,
+    "nezpusobile_pocet":11,
+    "zpusobile_pocet":3686,
+    "prum_poc_zavad_lehke":2.21,
+    "prum_poc_zavad_vazne":0.09,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Líbeznice",
+    "ulice":"Mělnická 1060",
+    "provozovatel":"BĚLOHRADSKÝ spol. s r.o.",
+    "telefon":"233 930 909",
+    "email":"stk3226@seznam.cz",
+    "zpusobile_pct":96.24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6422444,50.0028706 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8898,
+    "docasne_zpusoblile_pocet":477,
+    "nezpusobile_pocet":115,
+    "zpusobile_pocet":8306,
+    "prum_poc_zavad_lehke":3.08,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Říčany",
+    "ulice":"Kolovratská 2020",
+    "provozovatel":"BĚLOHRADSKÝ spol. s r.o.",
+    "telefon":"323 605 363",
+    "email":"stk3227@centrum.cz",
+    "zpusobile_pct":93.35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.0370954,49.9509259 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7458,
+    "docasne_zpusoblile_pocet":800,
+    "nezpusobile_pocet":91,
+    "zpusobile_pocet":6567,
+    "prum_poc_zavad_lehke":2.46,
+    "prum_poc_zavad_vazne":0.3,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Králův Dvůr",
+    "ulice":"Pod Hájem 372",
+    "provozovatel":"A-Z BEROUN s.r.o.",
+    "telefon":"311637777",
+    "email":"stk3228@seznam.cz",
+    "zpusobile_pct":88.05
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.0413409,50.176605 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4899,
+    "docasne_zpusoblile_pocet":277,
+    "nezpusobile_pocet":30,
+    "zpusobile_pocet":4592,
+    "prum_poc_zavad_lehke":2.67,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Nymburk",
+    "ulice":"Dopravní 2098",
+    "provozovatel":"BUILDING S spol. s r.o.",
+    "telefon":"724750750",
+    "email":"stk@building.cz",
+    "zpusobile_pct":93.73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.3987913,49.9194943 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4157,
+    "docasne_zpusoblile_pocet":181,
+    "nezpusobile_pocet":68,
+    "zpusobile_pocet":3908,
+    "prum_poc_zavad_lehke":2.5,
+    "prum_poc_zavad_vazne":0.12,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Čáslav",
+    "ulice":"Vrchovská 1760",
+    "provozovatel":"ABERA spol. s r.o.",
+    "telefon":"327315555",
+    "email":"abera@abera.cz",
+    "zpusobile_pct":94.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.367311,50.1597778 ]
+    },
+    "properties": {
+    "prohlidky_celkem":10656,
+    "docasne_zpusoblile_pocet":508,
+    "nezpusobile_pocet":146,
+    "zpusobile_pocet":10002,
+    "prum_poc_zavad_lehke":3.08,
+    "prum_poc_zavad_vazne":0.11,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Roztoky",
+    "ulice":"Přílepská 1909",
+    "provozovatel":"Auto Holý s.r.o.",
+    "telefon":"233910035",
+    "email":"auto-holy@volny.cz",
+    "zpusobile_pct":93.86
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.7668284,50.083604 ]
+    },
+    "properties": {
+    "prohlidky_celkem":11920,
+    "docasne_zpusoblile_pocet":296,
+    "nezpusobile_pocet":47,
+    "zpusobile_pocet":11577,
+    "prum_poc_zavad_lehke":2.55,
+    "prum_poc_zavad_vazne":0.06,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Tuklaty",
+    "ulice":"Hlavní 182",
+    "provozovatel":"TRILOBIT REAL s.r.o.",
+    "telefon":"321622290",
+    "email":"stk@trilobit-real.cz",
+    "zpusobile_pct":97.12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.1168952,49.655492 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3621,
+    "docasne_zpusoblile_pocet":86,
+    "nezpusobile_pocet":22,
+    "zpusobile_pocet":3513,
+    "prum_poc_zavad_lehke":4.9,
+    "prum_poc_zavad_vazne":0.07,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Čechtice",
+    "ulice":"Loket 52",
+    "provozovatel":"PRP spol.s r.o.",
+    "telefon":"317866060",
+    "email":"stkloket@seznam.cz",
+    "zpusobile_pct":97.02
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.9200229,50.4336512 ]
+    },
+    "properties": {
+    "prohlidky_celkem":11848,
+    "docasne_zpusoblile_pocet":658,
+    "nezpusobile_pocet":101,
+    "zpusobile_pocet":11089,
+    "prum_poc_zavad_lehke":0.97,
+    "prum_poc_zavad_vazne":0.14,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Mladá Boleslav",
+    "ulice":"Havlíčkova 1432/II",
+    "provozovatel":"STK - PECHA v.o.s.",
+    "telefon":"326737780",
+    "email":"STK3234@volny.cz",
+    "zpusobile_pct":93.59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4395704,49.6532174 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3152,
+    "docasne_zpusoblile_pocet":242,
+    "nezpusobile_pocet":15,
+    "zpusobile_pocet":2895,
+    "prum_poc_zavad_lehke":3.14,
+    "prum_poc_zavad_vazne":0.22,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Sedlčany",
+    "ulice":"Strojírenská 741",
+    "provozovatel":"KASOKO, s.r.o.",
+    "telefon":"318 820 810, 318 820 809",
+    "email":"stksedlcany@volny.cz",
+    "zpusobile_pct":91.85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.246346,50.2740456 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4324,
+    "docasne_zpusoblile_pocet":624,
+    "nezpusobile_pocet":53,
+    "zpusobile_pocet":3647,
+    "prum_poc_zavad_lehke":3.54,
+    "prum_poc_zavad_vazne":0.42,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Dymokury",
+    "ulice":"Nouzov 82",
+    "provozovatel":"Karel Theer",
+    "telefon":"325512484",
+    "email":"stk.nouzov@seznam.cz",
+    "zpusobile_pct":84.34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.8976089,49.7055021 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6346,
+    "docasne_zpusoblile_pocet":374,
+    "nezpusobile_pocet":67,
+    "zpusobile_pocet":5905,
+    "prum_poc_zavad_lehke":3.28,
+    "prum_poc_zavad_vazne":0.12,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Vlašim",
+    "ulice":"Průmyslová 1851",
+    "provozovatel":"STK Divišov s.r.o.",
+    "telefon":"317855313",
+    "email":"info@stkvlasim.cz; schovanek@seznam.cz",
+    "zpusobile_pct":93.05
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.1275516,50.0680622 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7582,
+    "docasne_zpusoblile_pocet":371,
+    "nezpusobile_pocet":9,
+    "zpusobile_pocet":7202,
+    "prum_poc_zavad_lehke":2.19,
+    "prum_poc_zavad_vazne":0.12,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Velim",
+    "ulice":"Palackého 94",
+    "provozovatel":"STK Velim, a.s.",
+    "telefon":"321762066",
+    "email":"stkvelim@seznam.cz",
+    "zpusobile_pct":94.99
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.905632,50.159304 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6754,
+    "docasne_zpusoblile_pocet":383,
+    "nezpusobile_pocet":25,
+    "zpusobile_pocet":6346,
+    "prum_poc_zavad_lehke":2.87,
+    "prum_poc_zavad_vazne":0.16,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Nové Strašecí",
+    "ulice":"Průmyslová 1208",
+    "provozovatel":"AR auto, s.r.o.",
+    "telefon":"724 330 990",
+    "email":"info@stknovestraseci.cz; info@arauto.cz",
+    "zpusobile_pct":93.96
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.8573926,50.2111927 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8968,
+    "docasne_zpusoblile_pocet":437,
+    "nezpusobile_pocet":51,
+    "zpusobile_pocet":8480,
+    "prum_poc_zavad_lehke":1.88,
+    "prum_poc_zavad_vazne":0.14,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Lysá nad Labem",
+    "ulice":"K Milovicům 1921",
+    "provozovatel":"STK RAPTOR s.r.o",
+    "telefon":"607206206",
+    "email":"info@stklysa.cz",
+    "zpusobile_pct":94.56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.9952433,49.6686059 ]
+    },
+    "properties": {
+    "prohlidky_celkem":9786,
+    "docasne_zpusoblile_pocet":697,
+    "nezpusobile_pocet":129,
+    "zpusobile_pocet":8960,
+    "prum_poc_zavad_lehke":3.53,
+    "prum_poc_zavad_vazne":0.22,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Příbram V - Zdaboř",
+    "ulice":"Brodská 633",
+    "provozovatel":"SeTeKoCAR s.r.o.",
+    "telefon":"605106706",
+    "email":"a.huml@ampseteko.cz",
+    "zpusobile_pct":91.56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.1197462,50.1436073 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6718,
+    "docasne_zpusoblile_pocet":609,
+    "nezpusobile_pocet":10,
+    "zpusobile_pocet":6099,
+    "prum_poc_zavad_lehke":3.33,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Kladno - Dubí",
+    "ulice":"Kročehlavská 1025",
+    "provozovatel":"BĚLOHRADSKÝ spol. s r.o.",
+    "telefon":"312538260",
+    "email":"stk3242@seznam.cz",
+    "zpusobile_pct":90.79
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4655411,49.974981 ]
+    },
+    "properties": {
+    "prohlidky_celkem":13355,
+    "docasne_zpusoblile_pocet":1379,
+    "nezpusobile_pocet":13,
+    "zpusobile_pocet":11963,
+    "prum_poc_zavad_lehke":2.8,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Dolní Břežany",
+    "ulice":"Pražská 830",
+    "provozovatel":"Automobile Centre STK s.r.o.",
+    "telefon":"722004004",
+    "email":"info@stkdb.cz",
+    "zpusobile_pct":89.58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.9297335,50.4111537 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2245,
+    "docasne_zpusoblile_pocet":161,
+    "nezpusobile_pocet":14,
+    "zpusobile_pocet":2070,
+    "prum_poc_zavad_lehke":4.99,
+    "prum_poc_zavad_vazne":0.16,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Mladá Boleslav",
+    "ulice":"Jičínská 414",
+    "provozovatel":"BĚLOHRADSKÝ spol. s r.o.",
+    "telefon":"315624925",
+    "email":"stk3244@seznam.cz",
+    "zpusobile_pct":92.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4747271,50.3606103 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3106,
+    "docasne_zpusoblile_pocet":405,
+    "nezpusobile_pocet":17,
+    "zpusobile_pocet":2684,
+    "prum_poc_zavad_lehke":2.21,
+    "prum_poc_zavad_vazne":0.35,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Mělník",
+    "ulice":"Na Malém Spořilově 41/51",
+    "provozovatel":"BĚLOHRADSKÝ spol. s r.o.",
+    "telefon":"312310720",
+    "email":"stk3245@seznam.cz",
+    "zpusobile_pct":86.41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.1092882,50.1772421 ]
+    },
+    "properties": {
+    "prohlidky_celkem":278,
+    "docasne_zpusoblile_pocet":18,
+    "nezpusobile_pocet":4,
+    "zpusobile_pocet":256,
+    "prum_poc_zavad_lehke":1.92,
+    "prum_poc_zavad_vazne":0.19,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Kladno-Švermov",
+    "ulice":"28. října 1503",
+    "provozovatel":"Měření 3D spol s r.o.",
+    "telefon":"NA",
+    "email":"NA",
+    "zpusobile_pct":92.09
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.8624716,49.4244325 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5174,
+    "docasne_zpusoblile_pocet":603,
+    "nezpusobile_pocet":143,
+    "zpusobile_pocet":4428,
+    "prum_poc_zavad_lehke":5.44,
+    "prum_poc_zavad_vazne":0.54,
+    "prum_poc_zavad_nebezpecne":0.05,
+    "mesto":"Blatná",
+    "ulice":"Vrbenská 1526",
+    "provozovatel":"STK Blatná, spol. s r. o.",
+    "telefon":"383 422 706",
+    "email":"stk.blatna@worldonline.cz",
+    "zpusobile_pct":85.58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.409705,48.8554257 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5944,
+    "docasne_zpusoblile_pocet":555,
+    "nezpusobile_pocet":189,
+    "zpusobile_pocet":5200,
+    "prum_poc_zavad_lehke":2.94,
+    "prum_poc_zavad_vazne":0.27,
+    "prum_poc_zavad_nebezpecne":0.04,
+    "mesto":"Český Krumlov",
+    "ulice":"Dolní Třebonín 195",
+    "provozovatel":"KOMAT - STK s.r.o.",
+    "telefon":"380743853",
+    "email":"stk@komat.cz",
+    "zpusobile_pct":87.48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.9141655,49.2683121 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6321,
+    "docasne_zpusoblile_pocet":438,
+    "nezpusobile_pocet":62,
+    "zpusobile_pocet":5821,
+    "prum_poc_zavad_lehke":1.46,
+    "prum_poc_zavad_vazne":0.23,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Strakonice",
+    "ulice":"Písecká 513",
+    "provozovatel":"STK STRAKONICE s.r.o.",
+    "telefon":"383 322 228",
+    "email":"stk@srachta-autoservis.cz",
+    "zpusobile_pct":92.09
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6958614,49.3770599 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4579,
+    "docasne_zpusoblile_pocet":355,
+    "nezpusobile_pocet":70,
+    "zpusobile_pocet":4154,
+    "prum_poc_zavad_lehke":1.4,
+    "prum_poc_zavad_vazne":0.16,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Sezimovo Ústí",
+    "ulice":"Pod Kovosvitem 1135",
+    "provozovatel":"STK Sezimovo Ústí spol. s r.o.",
+    "telefon":"381 291 277",
+    "email":"stksu@seznam.cz",
+    "zpusobile_pct":90.72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6866442,49.4043628 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4416,
+    "docasne_zpusoblile_pocet":412,
+    "nezpusobile_pocet":56,
+    "zpusobile_pocet":3948,
+    "prum_poc_zavad_lehke":2.94,
+    "prum_poc_zavad_vazne":0.25,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Tábor",
+    "ulice":"Měšická 1993",
+    "provozovatel":"PETA servis, spol. s r.o.",
+    "telefon":"381 254 670",
+    "email":"stkpeta@volny.cz",
+    "zpusobile_pct":89.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4815145,48.9764043 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8991,
+    "docasne_zpusoblile_pocet":251,
+    "nezpusobile_pocet":13,
+    "zpusobile_pocet":8727,
+    "prum_poc_zavad_lehke":2.29,
+    "prum_poc_zavad_vazne":0.06,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"České Budějovice",
+    "ulice":"Rudolfovská 17",
+    "provozovatel":"VOŠ, SPŠ automobilní a technická",
+    "telefon":"386 356 589",
+    "email":"stk@spsautocb.cz",
+    "zpusobile_pct":97.06
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4912126,48.9819821 ]
+    },
+    "properties": {
+    "prohlidky_celkem":18785,
+    "docasne_zpusoblile_pocet":1406,
+    "nezpusobile_pocet":147,
+    "zpusobile_pocet":17232,
+    "prum_poc_zavad_lehke":1.86,
+    "prum_poc_zavad_vazne":0.2,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"České Budějovice",
+    "ulice":"Pekárenská 77",
+    "provozovatel":"STK České Budějovice, s.r.o.",
+    "telefon":"389 009 190-4",
+    "email":"stk.cb@seznam.cz",
+    "zpusobile_pct":91.73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.0162246,49.1548194 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6859,
+    "docasne_zpusoblile_pocet":338,
+    "nezpusobile_pocet":76,
+    "zpusobile_pocet":6445,
+    "prum_poc_zavad_lehke":0.99,
+    "prum_poc_zavad_vazne":0.12,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Jindřichův Hradec",
+    "ulice":"Jarošovská 869/II",
+    "provozovatel":"AR PARTNER s.r.o.",
+    "telefon":"384321006",
+    "email":"stk@arpartnerjh.cz",
+    "zpusobile_pct":93.96
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.1680678,49.1414915 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":4,
+    "prum_poc_zavad_lehke":1.25,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Vodňany",
+    "ulice":"Stožická 840",
+    "provozovatel":"STK ZÁRUBA M & K s.r.o.",
+    "telefon":"383382522",
+    "email":"stk@zaruba.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.1410258,49.3025108 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6472,
+    "docasne_zpusoblile_pocet":522,
+    "nezpusobile_pocet":72,
+    "zpusobile_pocet":5878,
+    "prum_poc_zavad_lehke":3.07,
+    "prum_poc_zavad_vazne":0.24,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Písek",
+    "ulice":"Hradišťská 2439",
+    "provozovatel":"JIKONA STK s.r.o.",
+    "telefon":"382219089",
+    "email":"jikona@volny.cz",
+    "zpusobile_pct":90.82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.2287829,49.4164114 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6786,
+    "docasne_zpusoblile_pocet":378,
+    "nezpusobile_pocet":53,
+    "zpusobile_pocet":6355,
+    "prum_poc_zavad_lehke":3.17,
+    "prum_poc_zavad_vazne":0.15,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Pelhřimov",
+    "ulice":"Skrýšovská 1968",
+    "provozovatel":"STK PELHŘIMOV spol. s r.o.",
+    "telefon":"565323110",
+    "email":"stk@stkpelhrimov.cz",
+    "zpusobile_pct":93.65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.0349671,49.1429767 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":6,
+    "prum_poc_zavad_lehke":0.17,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Jindřichův Hradec",
+    "ulice":"Jitka-Otín 3",
+    "provozovatel":"BONUS Prachatice spol. s r.o.",
+    "telefon":"384326717",
+    "email":"stkjh@stkjh.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4216623,49.2290187 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4616,
+    "docasne_zpusoblile_pocet":377,
+    "nezpusobile_pocet":18,
+    "zpusobile_pocet":4221,
+    "prum_poc_zavad_lehke":2.18,
+    "prum_poc_zavad_vazne":0.19,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Týn nad Vltavou",
+    "ulice":"Táborská 568",
+    "provozovatel":"STK Týn nad Vltavou s.r.o.",
+    "telefon":"385732608",
+    "email":"stktyn@gmail.com",
+    "zpusobile_pct":91.44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6906613,49.4025098 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6177,
+    "docasne_zpusoblile_pocet":431,
+    "nezpusobile_pocet":86,
+    "zpusobile_pocet":5660,
+    "prum_poc_zavad_lehke":1.61,
+    "prum_poc_zavad_vazne":0.16,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Tábor",
+    "ulice":"Pelhřimovská 2940",
+    "provozovatel":"AUTA TEST s.r.o.",
+    "telefon":"381 253 175",
+    "email":"stk@stk-tabor.cz",
+    "zpusobile_pct":91.63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.9548444,49.0807984 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4152,
+    "docasne_zpusoblile_pocet":393,
+    "nezpusobile_pocet":59,
+    "zpusobile_pocet":3700,
+    "prum_poc_zavad_lehke":1.89,
+    "prum_poc_zavad_vazne":0.34,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Vlachovo Březí",
+    "ulice":"Žižkova 117",
+    "provozovatel":"Alena Ládová - DOZER s.r.o.",
+    "telefon":"388320153",
+    "email":"dozer.stk@cmail.cz",
+    "zpusobile_pct":89.11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.3491874,49.529355 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6934,
+    "docasne_zpusoblile_pocet":694,
+    "nezpusobile_pocet":436,
+    "zpusobile_pocet":5804,
+    "prum_poc_zavad_lehke":3.13,
+    "prum_poc_zavad_vazne":0.43,
+    "prum_poc_zavad_nebezpecne":0.09,
+    "mesto":"Humpolec",
+    "ulice":"Pelhřimovská 738",
+    "provozovatel":"STK Humpolec s.r.o.",
+    "telefon":"565533491",
+    "email":"stk.humpolec@tiscali.cz",
+    "zpusobile_pct":83.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.9688373,49.0737946 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":5,
+    "prum_poc_zavad_lehke":0.6,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Vlachovo Březí",
+    "ulice":"Chlumany 100",
+    "provozovatel":"Alena Ládová - DOZER s.r.o.",
+    "telefon":"388320000",
+    "email":"dozer.stk@cmail.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.1650404,49.2958413 ]
+    },
+    "properties": {
+    "prohlidky_celkem":26,
+    "docasne_zpusoblile_pocet":1,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":25,
+    "prum_poc_zavad_lehke":0.62,
+    "prum_poc_zavad_vazne":0.04,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Písek",
+    "ulice":"U Hřebčince 2534",
+    "provozovatel":"ATOS, s.r.o.",
+    "telefon":"382212564",
+    "email":"atospisek@volny.cz",
+    "zpusobile_pct":96.15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.2908121,49.4743732 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3337,
+    "docasne_zpusoblile_pocet":314,
+    "nezpusobile_pocet":78,
+    "zpusobile_pocet":2945,
+    "prum_poc_zavad_lehke":3.53,
+    "prum_poc_zavad_vazne":0.24,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Milevsko",
+    "ulice":"Hrejkovice 110",
+    "provozovatel":"Tollinger s.r.o.",
+    "telefon":"382211089",
+    "email":"stk@tollingercz.cz",
+    "zpusobile_pct":88.25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4806992,48.9871047 ]
+    },
+    "properties": {
+    "prohlidky_celkem":11264,
+    "docasne_zpusoblile_pocet":883,
+    "nezpusobile_pocet":26,
+    "zpusobile_pocet":10355,
+    "prum_poc_zavad_lehke":4.41,
+    "prum_poc_zavad_vazne":0.15,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"České Budějovice",
+    "ulice":"Jindřicha Plachty 56/2606",
+    "provozovatel":"Alena Ládová - DOZER s.r.o.",
+    "telefon":"387314265",
+    "email":"dozer.stk@cmail.cz",
+    "zpusobile_pct":91.93
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.3884985,49.4396404 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2752,
+    "docasne_zpusoblile_pocet":278,
+    "nezpusobile_pocet":35,
+    "zpusobile_pocet":2439,
+    "prum_poc_zavad_lehke":3.31,
+    "prum_poc_zavad_vazne":0.33,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Milevsko",
+    "ulice":"Sažinova 1438",
+    "provozovatel":"Jikona STK s.r.o.",
+    "telefon":"382 521 013",
+    "email":"stk_mil@volny.cz",
+    "zpusobile_pct":88.63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.7602361,49.010065 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7164,
+    "docasne_zpusoblile_pocet":528,
+    "nezpusobile_pocet":73,
+    "zpusobile_pocet":6563,
+    "prum_poc_zavad_lehke":2.68,
+    "prum_poc_zavad_vazne":0.2,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Třeboň",
+    "ulice":"Jiráskova 1202",
+    "provozovatel":"STK Kalivoda s.r.o.",
+    "telefon":"384721865",
+    "email":"stktrebon@tiscali.cz",
+    "zpusobile_pct":91.61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.721153,49.2470543 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5560,
+    "docasne_zpusoblile_pocet":387,
+    "nezpusobile_pocet":84,
+    "zpusobile_pocet":5089,
+    "prum_poc_zavad_lehke":4.25,
+    "prum_poc_zavad_vazne":0.14,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Soběslav",
+    "ulice":"Nová 514/II",
+    "provozovatel":"PETA servis, spol. s r.o.",
+    "telefon":"381 521 431",
+    "email":"stkpetas@volny.cz",
+    "zpusobile_pct":91.53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.7233339,49.247006 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3097,
+    "docasne_zpusoblile_pocet":184,
+    "nezpusobile_pocet":5,
+    "zpusobile_pocet":2908,
+    "prum_poc_zavad_lehke":2.54,
+    "prum_poc_zavad_vazne":0.15,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Soběslav",
+    "ulice":"Nová 515",
+    "provozovatel":"STK Týn nad Vltavou s.r.o.",
+    "telefon":"381 521 530",
+    "email":"stksob@volny.cz",
+    "zpusobile_pct":93.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.0045982,49.0182807 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2956,
+    "docasne_zpusoblile_pocet":284,
+    "nezpusobile_pocet":62,
+    "zpusobile_pocet":2610,
+    "prum_poc_zavad_lehke":3.15,
+    "prum_poc_zavad_vazne":0.37,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Prachatice",
+    "ulice":"Vodňanská 964",
+    "provozovatel":"Alena Ládová - DOZER s.r.o.",
+    "telefon":"388310656",
+    "email":"dozer.stk@cmail.cz",
+    "zpusobile_pct":88.29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.0453696,49.4286428 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4887,
+    "docasne_zpusoblile_pocet":368,
+    "nezpusobile_pocet":113,
+    "zpusobile_pocet":4406,
+    "prum_poc_zavad_lehke":4.74,
+    "prum_poc_zavad_vazne":0.25,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Mirotice",
+    "ulice":"Družstevní 335",
+    "provozovatel":"STK Mirotice s.r.o.",
+    "telefon":"382 229 094",
+    "email":"stkmirotice@tiscali.cz",
+    "zpusobile_pct":90.16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.2581901,48.8151241 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4716,
+    "docasne_zpusoblile_pocet":398,
+    "nezpusobile_pocet":63,
+    "zpusobile_pocet":4255,
+    "prum_poc_zavad_lehke":4.39,
+    "prum_poc_zavad_vazne":0.32,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Kájov",
+    "ulice":"Křenov u Kájova parc. č. 265, areál BOXIT",
+    "provozovatel":"BĚLOHRADSKÝ spol. s r.o.",
+    "telefon":"380750995",
+    "email":"stk3327@seznam.cz",
+    "zpusobile_pct":90.22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.3389758,49.7396541 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6053,
+    "docasne_zpusoblile_pocet":492,
+    "nezpusobile_pocet":90,
+    "zpusobile_pocet":5471,
+    "prum_poc_zavad_lehke":2.61,
+    "prum_poc_zavad_vazne":0.21,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Plzeň",
+    "ulice":"Domažlická 126",
+    "provozovatel":"AUTOKOMPLET- servis Plzeň s.r.o.",
+    "telefon":"377386776",
+    "email":"stk@autokomplet91.cz",
+    "zpusobile_pct":90.38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6390317,50.1851278 ]
+    },
+    "properties": {
+    "prohlidky_celkem":10247,
+    "docasne_zpusoblile_pocet":491,
+    "nezpusobile_pocet":77,
+    "zpusobile_pocet":9679,
+    "prum_poc_zavad_lehke":3.27,
+    "prum_poc_zavad_vazne":0.11,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Sokolov",
+    "ulice":"Citická 2069",
+    "provozovatel":"TYLINGER, s.r.o.",
+    "telefon":"352600063",
+    "email":"stksokolov@seznam.cz",
+    "zpusobile_pct":94.46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.6068545,49.2508923 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4360,
+    "docasne_zpusoblile_pocet":126,
+    "nezpusobile_pocet":7,
+    "zpusobile_pocet":4227,
+    "prum_poc_zavad_lehke":2.15,
+    "prum_poc_zavad_vazne":0.09,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Sušice",
+    "ulice":"Čimice 77",
+    "provozovatel":"Čimická STK s.r.o.",
+    "telefon":"376596542",
+    "email":"stk3403@autokalny.cz",
+    "zpusobile_pct":96.95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.7266149,49.7882715 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3728,
+    "docasne_zpusoblile_pocet":343,
+    "nezpusobile_pocet":48,
+    "zpusobile_pocet":3337,
+    "prum_poc_zavad_lehke":4.39,
+    "prum_poc_zavad_vazne":0.34,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Mýto",
+    "ulice":"Plzeňská 569",
+    "provozovatel":"STK Mýto s.r.o.",
+    "telefon":"371750316",
+    "email":"stk.myto@mybox.cz",
+    "zpusobile_pct":89.51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.275553,49.3913418 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7534,
+    "docasne_zpusoblile_pocet":229,
+    "nezpusobile_pocet":44,
+    "zpusobile_pocet":7261,
+    "prum_poc_zavad_lehke":2.37,
+    "prum_poc_zavad_vazne":0.07,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Klatovy",
+    "ulice":"Domažlické předměstí 610",
+    "provozovatel":"STK KLATOVY s.r.o.",
+    "telefon":"376313938",
+    "email":"janecek.tj@quick.cz",
+    "zpusobile_pct":96.38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6502634,49.7920493 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4251,
+    "docasne_zpusoblile_pocet":445,
+    "nezpusobile_pocet":199,
+    "zpusobile_pocet":3607,
+    "prum_poc_zavad_lehke":2.46,
+    "prum_poc_zavad_vazne":0.28,
+    "prum_poc_zavad_nebezpecne":0.06,
+    "mesto":"Tachov",
+    "ulice":"Oldřichovská 1511",
+    "provozovatel":"AutoKontrol - STK Tachov s.r.o.",
+    "telefon":"374722753",
+    "email":"stk34.07tc@quick.cz",
+    "zpusobile_pct":84.85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.9407526,49.5256681 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3720,
+    "docasne_zpusoblile_pocet":362,
+    "nezpusobile_pocet":60,
+    "zpusobile_pocet":3298,
+    "prum_poc_zavad_lehke":3.02,
+    "prum_poc_zavad_vazne":0.29,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Horšovský Týn",
+    "ulice":"Nádražní 70",
+    "provozovatel":"AUTO V-S spol. s.r.o.",
+    "telefon":"379422728",
+    "email":"stkhtyn@seznam.cz",
+    "zpusobile_pct":88.66
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.9107535,50.2673652 ]
+    },
+    "properties": {
+    "prohlidky_celkem":13,
+    "docasne_zpusoblile_pocet":3,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":10,
+    "prum_poc_zavad_lehke":0.46,
+    "prum_poc_zavad_vazne":0.31,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Sadov",
+    "ulice":"Lesov ev.č. 8",
+    "provozovatel":"TÜV NORD Czech, s.r.o.",
+    "telefon":"353590219",
+    "email":"stk-sadov@tuev-nord.cz",
+    "zpusobile_pct":76.92
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.387655,50.0764939 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5633,
+    "docasne_zpusoblile_pocet":720,
+    "nezpusobile_pocet":274,
+    "zpusobile_pocet":4639,
+    "prum_poc_zavad_lehke":2.56,
+    "prum_poc_zavad_vazne":0.57,
+    "prum_poc_zavad_nebezpecne":0.08,
+    "mesto":"Cheb",
+    "ulice":"Vrázova 2626/16",
+    "provozovatel":"AUTO - O.K. s.r.o.",
+    "telefon":"354439847",
+    "email":"cheb@autook.cz",
+    "zpusobile_pct":82.35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4054137,49.7182037 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6436,
+    "docasne_zpusoblile_pocet":397,
+    "nezpusobile_pocet":78,
+    "zpusobile_pocet":5961,
+    "prum_poc_zavad_lehke":2.56,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Plzeň",
+    "ulice":"Nepomucká 119",
+    "provozovatel":"STK Nepomucká s.r.o.",
+    "telefon":"377248811",
+    "email":"info@stknepomucka.cz",
+    "zpusobile_pct":92.62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.2761133,49.4038775 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":3,
+    "prum_poc_zavad_lehke":3,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Klatovy",
+    "ulice":"Dr.Sedláka 778",
+    "provozovatel":"KLATOVSKÁ STK s.r.o.",
+    "telefon":"376322332",
+    "email":"klastk3412@investtel.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.412081,49.7267619 ]
+    },
+    "properties": {
+    "prohlidky_celkem":33802,
+    "docasne_zpusoblile_pocet":3567,
+    "nezpusobile_pocet":387,
+    "zpusobile_pocet":29848,
+    "prum_poc_zavad_lehke":2.47,
+    "prum_poc_zavad_vazne":0.23,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Plzeň",
+    "ulice":"Koterovská 156a",
+    "provozovatel":"PLZEŇSKÁ STK s.r.o.",
+    "telefon":"377241224",
+    "email":"suchy@stk-plzen.cz",
+    "zpusobile_pct":88.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.5346023,49.5767723 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2420,
+    "docasne_zpusoblile_pocet":302,
+    "nezpusobile_pocet":34,
+    "zpusobile_pocet":2084,
+    "prum_poc_zavad_lehke":2.88,
+    "prum_poc_zavad_vazne":0.42,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Blovice",
+    "ulice":"Fügnerova 404",
+    "provozovatel":"DEKRA CZ a.s.",
+    "telefon":"371522754",
+    "email":"info@stk-blovice.cz",
+    "zpusobile_pct":86.12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.3738768,49.9003222 ]
+    },
+    "properties": {
+    "prohlidky_celkem":11149,
+    "docasne_zpusoblile_pocet":908,
+    "nezpusobile_pocet":80,
+    "zpusobile_pocet":10161,
+    "prum_poc_zavad_lehke":2.87,
+    "prum_poc_zavad_vazne":0.26,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Kaznějov",
+    "ulice":"Rybnice 155",
+    "provozovatel":"STK Rybnice s.r.o.",
+    "telefon":"373300539",
+    "email":"uteseny@stk-rybnice.cz",
+    "zpusobile_pct":91.14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6341993,50.1641283 ]
+    },
+    "properties": {
+    "prohlidky_celkem":13,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":1,
+    "zpusobile_pocet":12,
+    "prum_poc_zavad_lehke":1.54,
+    "prum_poc_zavad_vazne":0.23,
+    "prum_poc_zavad_nebezpecne":0.15,
+    "mesto":"Sokolov",
+    "ulice":"Chebská 2239",
+    "provozovatel":"Sokolovská STK s.r.o.",
+    "telefon":"352467444",
+    "email":"sokolovskastk@seznam.cz",
+    "zpusobile_pct":92.31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.711546,49.9485209 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3997,
+    "docasne_zpusoblile_pocet":540,
+    "nezpusobile_pocet":74,
+    "zpusobile_pocet":3383,
+    "prum_poc_zavad_lehke":2.09,
+    "prum_poc_zavad_vazne":0.32,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Mariánské Lázně",
+    "ulice":"Tepelská 551",
+    "provozovatel":"AUTORENT SALON s.r.o.",
+    "telefon":"354623084",
+    "email":"stkml@iol.cz",
+    "zpusobile_pct":84.64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.9503412,49.4523052 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7309,
+    "docasne_zpusoblile_pocet":416,
+    "nezpusobile_pocet":72,
+    "zpusobile_pocet":6821,
+    "prum_poc_zavad_lehke":3.91,
+    "prum_poc_zavad_vazne":0.17,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Domažlice",
+    "ulice":"Chrastavice 111",
+    "provozovatel":"KRČMA AUTO s.r.o.",
+    "telefon":"379768242",
+    "email":"stk@krcmaauto.cz",
+    "zpusobile_pct":93.32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.877064,50.2486299 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6048,
+    "docasne_zpusoblile_pocet":444,
+    "nezpusobile_pocet":58,
+    "zpusobile_pocet":5546,
+    "prum_poc_zavad_lehke":2.17,
+    "prum_poc_zavad_vazne":0.2,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Karlovy Vary",
+    "ulice":"Hroznětínská 402/4",
+    "provozovatel":"TÜV NORD Czech, s.r.o.",
+    "telefon":"353449475-6",
+    "email":"stk-bohatice@tuev-nord.cz",
+    "zpusobile_pct":91.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.990178,50.0568916 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3933,
+    "docasne_zpusoblile_pocet":102,
+    "nezpusobile_pocet":39,
+    "zpusobile_pocet":3792,
+    "prum_poc_zavad_lehke":1.41,
+    "prum_poc_zavad_vazne":0.05,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Toužim",
+    "ulice":"Plzeňská 575",
+    "provozovatel":"F+T AUTO-TECHNIK s.r.o.",
+    "telefon":"353311542",
+    "email":"stktouzim@volny.cz",
+    "zpusobile_pct":96.41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4095616,49.7441397 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2957,
+    "docasne_zpusoblile_pocet":328,
+    "nezpusobile_pocet":18,
+    "zpusobile_pocet":2611,
+    "prum_poc_zavad_lehke":3.49,
+    "prum_poc_zavad_vazne":0.27,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Vejprnice",
+    "ulice":"Sokolská 705",
+    "provozovatel":"AUTO LEPIČ, s.r.o.",
+    "telefon":"377826767",
+    "email":"stk.lepic@tiscali.cz",
+    "zpusobile_pct":88.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.6048048,49.7418299 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4025,
+    "docasne_zpusoblile_pocet":435,
+    "nezpusobile_pocet":27,
+    "zpusobile_pocet":3563,
+    "prum_poc_zavad_lehke":3.34,
+    "prum_poc_zavad_vazne":0.32,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Rokycany",
+    "ulice":"Pivovarská 146",
+    "provozovatel":"JIKE s.r.o.",
+    "telefon":"371729715",
+    "email":"stkrokycany@seznam.cz",
+    "zpusobile_pct":88.52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.71013,49.3217473 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2570,
+    "docasne_zpusoblile_pocet":304,
+    "nezpusobile_pocet":35,
+    "zpusobile_pocet":2231,
+    "prum_poc_zavad_lehke":2.05,
+    "prum_poc_zavad_vazne":0.38,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Horažďovice",
+    "ulice":"Tyršova 356",
+    "provozovatel":"Eduard Vrána - EDDY ´ SERVISE",
+    "telefon":"602465322",
+    "email":"stk@horazdovice.cz",
+    "zpusobile_pct":86.81
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.5410756,49.9938983 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3459,
+    "docasne_zpusoblile_pocet":204,
+    "nezpusobile_pocet":33,
+    "zpusobile_pocet":3222,
+    "prum_poc_zavad_lehke":1.9,
+    "prum_poc_zavad_vazne":0.22,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Kožlany",
+    "ulice":"Kožlany 349",
+    "provozovatel":"M-MEK s.r.o.",
+    "telefon":"373396681",
+    "email":"m.mourek@quick.cz",
+    "zpusobile_pct":93.15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.3266059,49.5800494 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5232,
+    "docasne_zpusoblile_pocet":277,
+    "nezpusobile_pocet":24,
+    "zpusobile_pocet":4931,
+    "prum_poc_zavad_lehke":1.54,
+    "prum_poc_zavad_vazne":0.11,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Přeštice",
+    "ulice":"Třída 1. máje 700",
+    "provozovatel":"STK Přeštice s.r.o.",
+    "telefon":"377982326",
+    "email":"info@stkprestice.cz",
+    "zpusobile_pct":94.25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7426086,50.2331487 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4705,
+    "docasne_zpusoblile_pocet":99,
+    "nezpusobile_pocet":49,
+    "zpusobile_pocet":4557,
+    "prum_poc_zavad_lehke":3.53,
+    "prum_poc_zavad_vazne":0.08,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Chodov",
+    "ulice":"Vintířovská 1119",
+    "provozovatel":"Chodovská STK s.r.o.",
+    "telefon":"602 449 989, 352 665 111",
+    "email":"stkchodov@seznam.cz",
+    "zpusobile_pct":96.85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.1976562,50.2123766 ]
+    },
+    "properties": {
+    "prohlidky_celkem":1911,
+    "docasne_zpusoblile_pocet":165,
+    "nezpusobile_pocet":32,
+    "zpusobile_pocet":1714,
+    "prum_poc_zavad_lehke":3.29,
+    "prum_poc_zavad_vazne":0.41,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Aš",
+    "ulice":"Anglická 2863",
+    "provozovatel":"AUTO - O.K. s.r.o.",
+    "telefon":"354595268",
+    "email":"as@autook.cz",
+    "zpusobile_pct":89.69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.29505,49.4045393 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4738,
+    "docasne_zpusoblile_pocet":73,
+    "nezpusobile_pocet":14,
+    "zpusobile_pocet":4651,
+    "prum_poc_zavad_lehke":1.5,
+    "prum_poc_zavad_vazne":0.03,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Klatovy",
+    "ulice":"K Letišti 670",
+    "provozovatel":"RAMALE s.r.o.",
+    "telefon":"376313906",
+    "email":"stk@autorb.cz",
+    "zpusobile_pct":98.16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7832223,49.7076616 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4080,
+    "docasne_zpusoblile_pocet":323,
+    "nezpusobile_pocet":21,
+    "zpusobile_pocet":3736,
+    "prum_poc_zavad_lehke":3.03,
+    "prum_poc_zavad_vazne":0.23,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Bor",
+    "ulice":"Plzeňská 667",
+    "provozovatel":"Miroslav Mansfeld",
+    "telefon":"374625727",
+    "email":"stk.mansfeld@atlas.cz",
+    "zpusobile_pct":91.57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.532695,49.2410987 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3344,
+    "docasne_zpusoblile_pocet":167,
+    "nezpusobile_pocet":14,
+    "zpusobile_pocet":3163,
+    "prum_poc_zavad_lehke":3.36,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Sušice",
+    "ulice":"Nádražní ulice 1302",
+    "provozovatel":"Pavel Dražka",
+    "telefon":"376323953",
+    "email":"info@stksusice.cz",
+    "zpusobile_pct":94.59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.99071,49.7529713 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3402,
+    "docasne_zpusoblile_pocet":273,
+    "nezpusobile_pocet":51,
+    "zpusobile_pocet":3078,
+    "prum_poc_zavad_lehke":5.06,
+    "prum_poc_zavad_vazne":0.22,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Stříbro",
+    "ulice":"Třída 5. května 1579",
+    "provozovatel":"AUTO LEPIČ s.r.o.",
+    "telefon":"374627999",
+    "email":"stk.stribro@seznam.cz",
+    "zpusobile_pct":90.48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.8006377,50.2230323 ]
+    },
+    "properties": {
+    "prohlidky_celkem":11614,
+    "docasne_zpusoblile_pocet":496,
+    "nezpusobile_pocet":24,
+    "zpusobile_pocet":11094,
+    "prum_poc_zavad_lehke":2.87,
+    "prum_poc_zavad_vazne":0.09,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Jenišov",
+    "ulice":"Daimlerova 271",
+    "provozovatel":"TYLINGER, s.r.o.",
+    "telefon":"353542121",
+    "email":"stkjenisov@seznam.cz",
+    "zpusobile_pct":95.52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5153011,50.9125168 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3714,
+    "docasne_zpusoblile_pocet":580,
+    "nezpusobile_pocet":79,
+    "zpusobile_pocet":3055,
+    "prum_poc_zavad_lehke":2.8,
+    "prum_poc_zavad_vazne":0.57,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Krásná Lípa",
+    "ulice":"Alšova 1075/7",
+    "provozovatel":"CSPSD Praha",
+    "telefon":"412383361",
+    "email":"stk3501@seznam.cz",
+    "zpusobile_pct":82.26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.2070944,50.7712251 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5555,
+    "docasne_zpusoblile_pocet":220,
+    "nezpusobile_pocet":58,
+    "zpusobile_pocet":5277,
+    "prum_poc_zavad_lehke":4.37,
+    "prum_poc_zavad_vazne":0.09,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Děčín",
+    "ulice":"Předmostí 1839/2",
+    "provozovatel":"STK Děčín  35.02 a.s.",
+    "telefon":"412588133",
+    "email":"stk-decin@ford-homolka.cz",
+    "zpusobile_pct":95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4074117,50.2286332 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3708,
+    "docasne_zpusoblile_pocet":390,
+    "nezpusobile_pocet":75,
+    "zpusobile_pocet":3243,
+    "prum_poc_zavad_lehke":2.64,
+    "prum_poc_zavad_vazne":0.31,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Podbořany",
+    "ulice":"Hlubanská 741",
+    "provozovatel":"STK-Podbořany s.r.o.",
+    "telefon":"415214362",
+    "email":"stk.podborany@quick.cz",
+    "zpusobile_pct":87.46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.0851817,50.7482013 ]
+    },
+    "properties": {
+    "prohlidky_celkem":9112,
+    "docasne_zpusoblile_pocet":303,
+    "nezpusobile_pocet":24,
+    "zpusobile_pocet":8785,
+    "prum_poc_zavad_lehke":3.95,
+    "prum_poc_zavad_vazne":0.11,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Liberec",
+    "ulice":"Tanvaldská 1106",
+    "provozovatel":"TKV Liberec spol. s r.o.",
+    "telefon":"482737888",
+    "email":"info@tkv-liberec.cz",
+    "zpusobile_pct":96.41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.1305458,50.5384197 ]
+    },
+    "properties": {
+    "prohlidky_celkem":9438,
+    "docasne_zpusoblile_pocet":951,
+    "nezpusobile_pocet":69,
+    "zpusobile_pocet":8418,
+    "prum_poc_zavad_lehke":2.29,
+    "prum_poc_zavad_vazne":0.3,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Litoměřice",
+    "ulice":"U terez. křižovatky 176",
+    "provozovatel":"S.T.K. Litoměřice s.r.o.",
+    "telefon":"416739016",
+    "email":"stk-ltm@iol.cz",
+    "zpusobile_pct":89.19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.6369524,50.4911142 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6607,
+    "docasne_zpusoblile_pocet":556,
+    "nezpusobile_pocet":79,
+    "zpusobile_pocet":5972,
+    "prum_poc_zavad_lehke":1.98,
+    "prum_poc_zavad_vazne":0.23,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Most",
+    "ulice":"Budovatelů 624",
+    "provozovatel":"AUTOPLUS II. CONTROL s.r.o.",
+    "telefon":"476100461",
+    "email":"stk3506@autoplusmost.cz",
+    "zpusobile_pct":90.39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.799843,50.3568536 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3324,
+    "docasne_zpusoblile_pocet":106,
+    "nezpusobile_pocet":31,
+    "zpusobile_pocet":3187,
+    "prum_poc_zavad_lehke":4.06,
+    "prum_poc_zavad_vazne":0.11,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Lubenec",
+    "ulice":"Pražská 375",
+    "provozovatel":"R + B Auto control, spol. s r.o.",
+    "telefon":"415212296",
+    "email":"stk.lubenec@seznam.cz",
+    "zpusobile_pct":95.88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.8144025,50.3489818 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5240,
+    "docasne_zpusoblile_pocet":542,
+    "nezpusobile_pocet":108,
+    "zpusobile_pocet":4590,
+    "prum_poc_zavad_lehke":2.05,
+    "prum_poc_zavad_vazne":0.22,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Louny",
+    "ulice":"Rybalkova 2765",
+    "provozovatel":"STK  - O.K. CAR spol. s r.o.",
+    "telefon":"415653467",
+    "email":"stk.ok.car@iol.cz",
+    "zpusobile_pct":87.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.2168096,50.3985433 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5355,
+    "docasne_zpusoblile_pocet":329,
+    "nezpusobile_pocet":95,
+    "zpusobile_pocet":4931,
+    "prum_poc_zavad_lehke":2.74,
+    "prum_poc_zavad_vazne":0.17,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Klášterec nad Ohří",
+    "ulice":"Průmyslová zóna VERNE 12",
+    "provozovatel":"ALFA - TECHNIC s.r.o.",
+    "telefon":"474331421",
+    "email":"alfa.technic.stk-k@iol.cz; stk.chomutov@seznam.cz",
+    "zpusobile_pct":92.08
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.4378584,50.4829362 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6925,
+    "docasne_zpusoblile_pocet":415,
+    "nezpusobile_pocet":81,
+    "zpusobile_pocet":6429,
+    "prum_poc_zavad_lehke":3.54,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Chomutov",
+    "ulice":"Otvice obchodní zóna 252",
+    "provozovatel":"ALFA - TECHNIC  s.r.o.",
+    "telefon":"474653414",
+    "email":"alfa.technic.stk@iol.cz",
+    "zpusobile_pct":92.84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.7767259,50.6645743 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6746,
+    "docasne_zpusoblile_pocet":838,
+    "nezpusobile_pocet":74,
+    "zpusobile_pocet":5834,
+    "prum_poc_zavad_lehke":2.57,
+    "prum_poc_zavad_vazne":0.38,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Dubí - Mstišov",
+    "ulice":"K Emance 291",
+    "provozovatel":"IVESUR Česká republika a.s.",
+    "telefon":"417571435",
+    "email":"stk3511@seznam.cz",
+    "zpusobile_pct":86.48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5626203,50.7637127 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4719,
+    "docasne_zpusoblile_pocet":324,
+    "nezpusobile_pocet":65,
+    "zpusobile_pocet":4330,
+    "prum_poc_zavad_lehke":5.03,
+    "prum_poc_zavad_vazne":0.21,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Nový Bor",
+    "ulice":"Liberecká 558",
+    "provozovatel":"KLIMEX s.r.o.",
+    "telefon":"487754637",
+    "email":"novy.bor@stkcl.cz",
+    "zpusobile_pct":91.76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.2475971,50.4154731 ]
+    },
+    "properties": {
+    "prohlidky_celkem":9411,
+    "docasne_zpusoblile_pocet":506,
+    "nezpusobile_pocet":249,
+    "zpusobile_pocet":8656,
+    "prum_poc_zavad_lehke":2.88,
+    "prum_poc_zavad_vazne":0.16,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Roudnice nad Labem",
+    "ulice":"Žižkova 2483",
+    "provozovatel":"STK Roudnice n. L. s.r.o.",
+    "telefon":"416831853",
+    "email":"jransdorf@raz-dva.cz",
+    "zpusobile_pct":91.98
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.5544327,50.3315984 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3904,
+    "docasne_zpusoblile_pocet":390,
+    "nezpusobile_pocet":50,
+    "zpusobile_pocet":3464,
+    "prum_poc_zavad_lehke":3.49,
+    "prum_poc_zavad_vazne":0.51,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Žatec",
+    "ulice":"U Oharky 3093",
+    "provozovatel":"Stanice technické kontroly Žatec,s.r.o",
+    "telefon":"415711258",
+    "email":"info@stkzatec.cz",
+    "zpusobile_pct":88.73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.0023267,50.6562633 ]
+    },
+    "properties": {
+    "prohlidky_celkem":12718,
+    "docasne_zpusoblile_pocet":916,
+    "nezpusobile_pocet":269,
+    "zpusobile_pocet":11533,
+    "prum_poc_zavad_lehke":3.26,
+    "prum_poc_zavad_vazne":0.16,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Ústí nad Labem",
+    "ulice":"Hrbovická 2",
+    "provozovatel":"Terri s.r.o.",
+    "telefon":"475601147",
+    "email":"stk.usti@terri.cz",
+    "zpusobile_pct":90.68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.1587346,50.7355267 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7433,
+    "docasne_zpusoblile_pocet":367,
+    "nezpusobile_pocet":86,
+    "zpusobile_pocet":6980,
+    "prum_poc_zavad_lehke":3.14,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Jablonec nad Nisou",
+    "ulice":"Želivského 1",
+    "provozovatel":"eSTéKá spol. s r.o.",
+    "telefon":"483312131",
+    "email":"esteka.jbc@volny.cz",
+    "zpusobile_pct":93.91
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.1450544,50.7404748 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3322,
+    "docasne_zpusoblile_pocet":269,
+    "nezpusobile_pocet":28,
+    "zpusobile_pocet":3025,
+    "prum_poc_zavad_lehke":3.44,
+    "prum_poc_zavad_vazne":0.21,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Jablonec nad Nisou",
+    "ulice":"Belgická 5061",
+    "provozovatel":"DEKRA CZ a.s.",
+    "telefon":"480003607",
+    "email":"jablonecka.stk@seznam.cz",
+    "zpusobile_pct":91.06
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.0507057,50.7623934 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3982,
+    "docasne_zpusoblile_pocet":320,
+    "nezpusobile_pocet":76,
+    "zpusobile_pocet":3586,
+    "prum_poc_zavad_lehke":1.35,
+    "prum_poc_zavad_vazne":0.19,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Liberec",
+    "ulice":"Mrštíkova 2",
+    "provozovatel":"STEKO LB, spol. s r.o.",
+    "telefon":"485104111",
+    "email":"stk@stkliberec.cz",
+    "zpusobile_pct":90.06
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.5613924,50.5863551 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7224,
+    "docasne_zpusoblile_pocet":542,
+    "nezpusobile_pocet":171,
+    "zpusobile_pocet":6511,
+    "prum_poc_zavad_lehke":4.2,
+    "prum_poc_zavad_vazne":0.27,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Janov",
+    "ulice":"Podkrušnohorská 8",
+    "provozovatel":"STK Janov s.r.o.",
+    "telefon":"476741649",
+    "email":"info@stkjanov.cz",
+    "zpusobile_pct":90.13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.3918313,50.4409398 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5188,
+    "docasne_zpusoblile_pocet":305,
+    "nezpusobile_pocet":50,
+    "zpusobile_pocet":4833,
+    "prum_poc_zavad_lehke":2.36,
+    "prum_poc_zavad_vazne":0.19,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Spořice",
+    "ulice":"Spořice 480",
+    "provozovatel":"HELVE s.r.o.",
+    "telefon":"474623548",
+    "email":"stksporice@seznam.cz",
+    "zpusobile_pct":93.16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5502051,50.6944606 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5967,
+    "docasne_zpusoblile_pocet":197,
+    "nezpusobile_pocet":23,
+    "zpusobile_pocet":5747,
+    "prum_poc_zavad_lehke":3.88,
+    "prum_poc_zavad_vazne":0.1,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Česká Lípa",
+    "ulice":"Žitavská  3112",
+    "provozovatel":"KLIMEX s.r.o.",
+    "telefon":"487874683",
+    "email":"ceska.lipa@stkcl.cz",
+    "zpusobile_pct":96.31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.975348,50.6888861 ]
+    },
+    "properties": {
+    "prohlidky_celkem":13282,
+    "docasne_zpusoblile_pocet":569,
+    "nezpusobile_pocet":55,
+    "zpusobile_pocet":12658,
+    "prum_poc_zavad_lehke":3.38,
+    "prum_poc_zavad_vazne":0.11,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Ústí nad Labem",
+    "ulice":"Havířská 360/29",
+    "provozovatel":"B.K. syn CENTRUM s.r.o.",
+    "telefon":"475504414",
+    "email":"alexa@areal-uzin.cz",
+    "zpusobile_pct":95.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.9874157,50.689353 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3296,
+    "docasne_zpusoblile_pocet":76,
+    "nezpusobile_pocet":31,
+    "zpusobile_pocet":3189,
+    "prum_poc_zavad_lehke":1.87,
+    "prum_poc_zavad_vazne":0.04,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Ústí nad Labem",
+    "ulice":"Podhoří 361/2",
+    "provozovatel":"STK Děčín 35.02 a.s.",
+    "telefon":"475316934",
+    "email":"stk@auto-homolka.cz",
+    "zpusobile_pct":96.75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.534151,50.679733 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4163,
+    "docasne_zpusoblile_pocet":301,
+    "nezpusobile_pocet":44,
+    "zpusobile_pocet":3818,
+    "prum_poc_zavad_lehke":2.27,
+    "prum_poc_zavad_vazne":0.17,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Česká Lípa",
+    "ulice":"Mánesova 1477",
+    "provozovatel":"AUTORENOVA Plus s.r.o.",
+    "telefon":"487868924",
+    "email":"info@stkmanesova.cz",
+    "zpusobile_pct":91.71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.1095827,50.9056479 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5937,
+    "docasne_zpusoblile_pocet":513,
+    "nezpusobile_pocet":51,
+    "zpusobile_pocet":5373,
+    "prum_poc_zavad_lehke":3.58,
+    "prum_poc_zavad_vazne":0.32,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Raspenava",
+    "ulice":"Frýdlantská 772",
+    "provozovatel":"FOLDA, s.r.o.",
+    "telefon":"482319126",
+    "email":"stk.3526@volny.cz",
+    "zpusobile_pct":90.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.2178474,50.7765249 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3147,
+    "docasne_zpusoblile_pocet":395,
+    "nezpusobile_pocet":37,
+    "zpusobile_pocet":2715,
+    "prum_poc_zavad_lehke":2.58,
+    "prum_poc_zavad_vazne":0.31,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Děčín",
+    "ulice":"Oblouková 1416/9",
+    "provozovatel":"S.T.K. Litoměřice s.r.o.",
+    "telefon":"412589926",
+    "email":"dc.stk@volny.cz",
+    "zpusobile_pct":86.27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5297021,50.6880829 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6048,
+    "docasne_zpusoblile_pocet":227,
+    "nezpusobile_pocet":23,
+    "zpusobile_pocet":5798,
+    "prum_poc_zavad_lehke":2.46,
+    "prum_poc_zavad_vazne":0.07,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Česká Lípa",
+    "ulice":"Kovářova 3189",
+    "provozovatel":"BĚLOHRADSKÝ spol. s r.o.",
+    "telefon":"487831081",
+    "email":"stk3528@seznam.cz",
+    "zpusobile_pct":95.87
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.0308124,50.780101 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6364,
+    "docasne_zpusoblile_pocet":302,
+    "nezpusobile_pocet":87,
+    "zpusobile_pocet":5975,
+    "prum_poc_zavad_lehke":2.52,
+    "prum_poc_zavad_vazne":0.14,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Liberec XI-Růžodol I",
+    "ulice":"Londýnská 590/85",
+    "provozovatel":"KLIMEX s.r.o.",
+    "telefon":"485108325",
+    "email":"liberec@stkcl.cz",
+    "zpusobile_pct":93.89
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.0040979,50.660203 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7577,
+    "docasne_zpusoblile_pocet":644,
+    "nezpusobile_pocet":64,
+    "zpusobile_pocet":6869,
+    "prum_poc_zavad_lehke":2.25,
+    "prum_poc_zavad_vazne":0.21,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Český Dub",
+    "ulice":"Sobotice 15",
+    "provozovatel":"Jan Červa",
+    "telefon":"485147104",
+    "email":"info@stk-ceskydub.cz",
+    "zpusobile_pct":90.66
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.8348004,50.6326816 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6414,
+    "docasne_zpusoblile_pocet":598,
+    "nezpusobile_pocet":56,
+    "zpusobile_pocet":5760,
+    "prum_poc_zavad_lehke":2.2,
+    "prum_poc_zavad_vazne":0.21,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Teplice",
+    "ulice":"V Lipách 3275",
+    "provozovatel":"BĚLOHRADSKÝ spol. s r.o.",
+    "telefon":"417535386",
+    "email":"stk3531@seznam.cz",
+    "zpusobile_pct":89.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.1418473,50.5391377 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4005,
+    "docasne_zpusoblile_pocet":458,
+    "nezpusobile_pocet":66,
+    "zpusobile_pocet":3481,
+    "prum_poc_zavad_lehke":1.89,
+    "prum_poc_zavad_vazne":0.29,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Litoměřice",
+    "ulice":"U Trati 2213",
+    "provozovatel":"IVESUR Česká republika a.s.",
+    "telefon":"416535500",
+    "email":"stk3532@seznam.cz",
+    "zpusobile_pct":86.92
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.8731392,50.5979083 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4899,
+    "docasne_zpusoblile_pocet":805,
+    "nezpusobile_pocet":57,
+    "zpusobile_pocet":4037,
+    "prum_poc_zavad_lehke":4.09,
+    "prum_poc_zavad_vazne":0.59,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Trutnov",
+    "ulice":"Mladobucká 483",
+    "provozovatel":"CSPSD Praha",
+    "telefon":"499732913",
+    "email":"stktrutnov@volny.cz",
+    "zpusobile_pct":82.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.5775561,49.5961183 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7576,
+    "docasne_zpusoblile_pocet":716,
+    "nezpusobile_pocet":254,
+    "zpusobile_pocet":6606,
+    "prum_poc_zavad_lehke":3.19,
+    "prum_poc_zavad_vazne":0.3,
+    "prum_poc_zavad_nebezpecne":0.05,
+    "mesto":"Havlíčkův Brod",
+    "ulice":"Lidická 3974",
+    "provozovatel":"STK HB s.r.o.",
+    "telefon":"569429900",
+    "email":"stkhb@stkhb.cz",
+    "zpusobile_pct":87.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.4465554,49.9033832 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4670,
+    "docasne_zpusoblile_pocet":840,
+    "nezpusobile_pocet":99,
+    "zpusobile_pocet":3731,
+    "prum_poc_zavad_lehke":3.67,
+    "prum_poc_zavad_vazne":0.65,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Česká Třebová",
+    "ulice":"Podbranská 2047",
+    "provozovatel":"DEKRA CZ a.s.",
+    "telefon":"465531007",
+    "email":"stkct@seznam.cz",
+    "zpusobile_pct":79.89
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.8282349,49.9313692 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6068,
+    "docasne_zpusoblile_pocet":535,
+    "nezpusobile_pocet":322,
+    "zpusobile_pocet":5211,
+    "prum_poc_zavad_lehke":3.93,
+    "prum_poc_zavad_vazne":0.4,
+    "prum_poc_zavad_nebezpecne":0.11,
+    "mesto":"Chrudim",
+    "ulice":"Vlčnov 30",
+    "provozovatel":"KVATRO CHRUDIM spol. s r.o.",
+    "telefon":"722110011",
+    "email":"stkchrudim@seznam.cz",
+    "zpusobile_pct":85.88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.381637,50.4324776 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7170,
+    "docasne_zpusoblile_pocet":380,
+    "nezpusobile_pocet":173,
+    "zpusobile_pocet":6617,
+    "prum_poc_zavad_lehke":3.48,
+    "prum_poc_zavad_vazne":0.15,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Jičín",
+    "ulice":"Hradecká 1122",
+    "provozovatel":"AGRO SLATINY a.s.",
+    "telefon":"493555055",
+    "email":"stk@jicinet.cz",
+    "zpusobile_pct":92.29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2711439,50.1609615 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3434,
+    "docasne_zpusoblile_pocet":494,
+    "nezpusobile_pocet":37,
+    "zpusobile_pocet":2903,
+    "prum_poc_zavad_lehke":2.54,
+    "prum_poc_zavad_vazne":0.41,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Rychnov nad Kněžnou",
+    "ulice":"Soukenická 242",
+    "provozovatel":"STK Solnice s.r.o.",
+    "telefon":"494596255",
+    "email":"info@stkrk.cz",
+    "zpusobile_pct":84.54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1338972,50.3541969 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2950,
+    "docasne_zpusoblile_pocet":237,
+    "nezpusobile_pocet":65,
+    "zpusobile_pocet":2648,
+    "prum_poc_zavad_lehke":1.93,
+    "prum_poc_zavad_vazne":0.32,
+    "prum_poc_zavad_nebezpecne":0.04,
+    "mesto":"Nové Město nad Metují",
+    "ulice":"Krátká 419",
+    "provozovatel":"DETECHA-chemické výrobní družstvo",
+    "telefon":"491470314",
+    "email":"stk@detecha.cz",
+    "zpusobile_pct":89.76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.8127906,50.1963915 ]
+    },
+    "properties": {
+    "prohlidky_celkem":16278,
+    "docasne_zpusoblile_pocet":1127,
+    "nezpusobile_pocet":127,
+    "zpusobile_pocet":15024,
+    "prum_poc_zavad_lehke":2.63,
+    "prum_poc_zavad_vazne":0.15,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Hradec Králové",
+    "ulice":"Na Rybárně 203",
+    "provozovatel":"OLFIN Car - STK s.r.o.",
+    "telefon":"495537011",
+    "email":"stk@olfincar.cz",
+    "zpusobile_pct":92.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.764756,50.0617901 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5422,
+    "docasne_zpusoblile_pocet":299,
+    "nezpusobile_pocet":31,
+    "zpusobile_pocet":5092,
+    "prum_poc_zavad_lehke":3.03,
+    "prum_poc_zavad_vazne":0.15,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Pardubice",
+    "ulice":"Hradišťská 551",
+    "provozovatel":"Autokontrol Pardubice s.r.o.",
+    "telefon":"466415536",
+    "email":"info@autokontrol.cz",
+    "zpusobile_pct":93.91
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2760797,50.1559779 ]
+    },
+    "properties": {
+    "prohlidky_celkem":1,
+    "docasne_zpusoblile_pocet":1,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":0,
+    "prum_poc_zavad_lehke":2,
+    "prum_poc_zavad_vazne":1,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Rychnov nad Kněžnou",
+    "ulice":"Ekologická 348",
+    "provozovatel":"FAMA - STK, s.r.o.",
+    "telefon":"494533867",
+    "email":"stkfama@iex.cz",
+    "zpusobile_pct":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.4529212,49.7625261 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8111,
+    "docasne_zpusoblile_pocet":899,
+    "nezpusobile_pocet":148,
+    "zpusobile_pocet":7064,
+    "prum_poc_zavad_lehke":3.63,
+    "prum_poc_zavad_vazne":0.42,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Svitavy",
+    "ulice":"Petrusova 2",
+    "provozovatel":"STK SVITAVY s.r.o.",
+    "telefon":"461534195",
+    "email":"stk.svitavy@tiscali.cz",
+    "zpusobile_pct":87.09
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.0346875,50.3944918 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7127,
+    "docasne_zpusoblile_pocet":829,
+    "nezpusobile_pocet":84,
+    "zpusobile_pocet":6214,
+    "prum_poc_zavad_lehke":4.47,
+    "prum_poc_zavad_vazne":0.36,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Česká Skalice",
+    "ulice":"Jiřinková 276",
+    "provozovatel":"FARMET STK spol s r.o.",
+    "telefon":"491 452 624, 491 452 155",
+    "email":"i.martinec@farmet.cz",
+    "zpusobile_pct":87.19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.379835,50.4333499 ]
+    },
+    "properties": {
+    "prohlidky_celkem":1,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":1,
+    "prum_poc_zavad_lehke":5,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Jičín",
+    "ulice":"Průmyslová 1256",
+    "provozovatel":"AGRO SLATINY a.s.",
+    "telefon":"493522434",
+    "email":"stk.nakladni.jicin@quick.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.4817705,49.7564667 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":3,
+    "prum_poc_zavad_lehke":4,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Svitavy",
+    "ulice":"V Zahrádkách 1",
+    "provozovatel":"Autokontrol Pardubice s.r.o.",
+    "telefon":"461532664",
+    "email":"stk.svitavy@autokontrol.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.1344731,50.5871831 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8806,
+    "docasne_zpusoblile_pocet":624,
+    "nezpusobile_pocet":119,
+    "zpusobile_pocet":8063,
+    "prum_poc_zavad_lehke":2.69,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Turnov",
+    "ulice":"Nudvojovická 1681",
+    "provozovatel":"STK Turnov, s.r.o.",
+    "telefon":"481325637",
+    "email":"stkturnov@tiscali.cz",
+    "zpusobile_pct":91.56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.8733952,50.2172608 ]
+    },
+    "properties": {
+    "prohlidky_celkem":9629,
+    "docasne_zpusoblile_pocet":910,
+    "nezpusobile_pocet":73,
+    "zpusobile_pocet":8646,
+    "prum_poc_zavad_lehke":3.52,
+    "prum_poc_zavad_vazne":0.24,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Hradec Králové",
+    "ulice":"Bratří Štefanů 492",
+    "provozovatel":"MEDIS HOLDING a.s.",
+    "telefon":"495544875",
+    "email":"stk@medis.cz",
+    "zpusobile_pct":89.79
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.8214397,50.024621 ]
+    },
+    "properties": {
+    "prohlidky_celkem":9310,
+    "docasne_zpusoblile_pocet":636,
+    "nezpusobile_pocet":167,
+    "zpusobile_pocet":8507,
+    "prum_poc_zavad_lehke":5.38,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Pardubice",
+    "ulice":"Průmyslová 381",
+    "provozovatel":"STK ZADINA, spol.s r.o.",
+    "telefon":"466 670 165",
+    "email":"stk-zadina@volny.cz",
+    "zpusobile_pct":91.37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.800296,49.9570538 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8618,
+    "docasne_zpusoblile_pocet":360,
+    "nezpusobile_pocet":66,
+    "zpusobile_pocet":8192,
+    "prum_poc_zavad_lehke":2.35,
+    "prum_poc_zavad_vazne":0.14,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Chrudim",
+    "ulice":"Dašická 248",
+    "provozovatel":"Z-MOTOR s.r.o.",
+    "telefon":"469 626 117",
+    "email":"stk@z-motor.cz",
+    "zpusobile_pct":95.06
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.4060478,50.6811613 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2892,
+    "docasne_zpusoblile_pocet":281,
+    "nezpusobile_pocet":67,
+    "zpusobile_pocet":2544,
+    "prum_poc_zavad_lehke":2.12,
+    "prum_poc_zavad_vazne":0.33,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Vysoké nad Jizerou",
+    "ulice":"Dr. Farského 300",
+    "provozovatel":"Integrovaná střední škola",
+    "telefon":"481 593 907",
+    "email":"fsalda@iss-vysokenj.cz",
+    "zpusobile_pct":87.97
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.7453763,50.0624811 ]
+    },
+    "properties": {
+    "prohlidky_celkem":9503,
+    "docasne_zpusoblile_pocet":597,
+    "nezpusobile_pocet":315,
+    "zpusobile_pocet":8591,
+    "prum_poc_zavad_lehke":5.01,
+    "prum_poc_zavad_vazne":0.17,
+    "prum_poc_zavad_nebezpecne":0.04,
+    "mesto":"Pardubice",
+    "ulice":"Semtín 100",
+    "provozovatel":"FONTES STK s.r.o.",
+    "telefon":"466 415 861",
+    "email":"fontesstk@volny.cz",
+    "zpusobile_pct":90.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1369751,50.4058707 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6837,
+    "docasne_zpusoblile_pocet":418,
+    "nezpusobile_pocet":134,
+    "zpusobile_pocet":6285,
+    "prum_poc_zavad_lehke":5.52,
+    "prum_poc_zavad_vazne":0.23,
+    "prum_poc_zavad_nebezpecne":0.05,
+    "mesto":"Vysokov",
+    "ulice":"Českoskalická 1743",
+    "provozovatel":"AUTOTEST-TKMV, s.r.o.",
+    "telefon":"491421859",
+    "email":"novak@autotest-tkmv.cz",
+    "zpusobile_pct":91.93
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.8171022,50.4447932 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2817,
+    "docasne_zpusoblile_pocet":488,
+    "nezpusobile_pocet":41,
+    "zpusobile_pocet":2288,
+    "prum_poc_zavad_lehke":3.78,
+    "prum_poc_zavad_vazne":0.6,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Dvůr Králové nad Labem",
+    "ulice":"Nedbalova 573",
+    "provozovatel":"DEKRA CZ  a.s.",
+    "telefon":"499 622 506, 499 320 540",
+    "email":"stkdk@dekra.cz",
+    "zpusobile_pct":81.22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.149305,49.9542048 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5767,
+    "docasne_zpusoblile_pocet":575,
+    "nezpusobile_pocet":126,
+    "zpusobile_pocet":5066,
+    "prum_poc_zavad_lehke":3.52,
+    "prum_poc_zavad_vazne":0.35,
+    "prum_poc_zavad_nebezpecne":0.04,
+    "mesto":"Vysoké Mýto",
+    "ulice":"Vraclavská 523",
+    "provozovatel":"AUTOTEST-STK Vysoké Mýto s.r.o.",
+    "telefon":"465 420 738",
+    "email":"stk.vysokemyto@email.cz",
+    "zpusobile_pct":87.84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.6042256,49.5814339 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3519,
+    "docasne_zpusoblile_pocet":305,
+    "nezpusobile_pocet":16,
+    "zpusobile_pocet":3198,
+    "prum_poc_zavad_lehke":3.6,
+    "prum_poc_zavad_vazne":0.3,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Havlíčkův Brod",
+    "ulice":"Baštinov 126",
+    "provozovatel":"STK NOVÁK HB s.r.o.",
+    "telefon":"569 438 200",
+    "email":"mnovak@stknovak.cz",
+    "zpusobile_pct":90.88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.8753503,50.3022083 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4364,
+    "docasne_zpusoblile_pocet":450,
+    "nezpusobile_pocet":27,
+    "zpusobile_pocet":3887,
+    "prum_poc_zavad_lehke":6.24,
+    "prum_poc_zavad_vazne":0.36,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Smiřice",
+    "ulice":"Seligerova 147",
+    "provozovatel":"KUTÍK STK, spol. s r.o.",
+    "telefon":"495 421 828",
+    "email":"kutik.stk@tiscali.cz",
+    "zpusobile_pct":89.07
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6052131,50.0277389 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4288,
+    "docasne_zpusoblile_pocet":658,
+    "nezpusobile_pocet":63,
+    "zpusobile_pocet":3567,
+    "prum_poc_zavad_lehke":3.88,
+    "prum_poc_zavad_vazne":0.57,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Jablonné nad Orlicí",
+    "ulice":"U Koupaliště 180",
+    "provozovatel":"STK Jablonné s.r.o.",
+    "telefon":"465 642 945",
+    "email":"machacek@dekra.cz",
+    "zpusobile_pct":83.19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.6601641,49.7142561 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3221,
+    "docasne_zpusoblile_pocet":209,
+    "nezpusobile_pocet":54,
+    "zpusobile_pocet":2958,
+    "prum_poc_zavad_lehke":3.29,
+    "prum_poc_zavad_vazne":0.17,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Chotěboř",
+    "ulice":"U Střelnice 1724",
+    "provozovatel":"STK Chotěboř, s.r.o.",
+    "telefon":"569621286",
+    "email":"technickakontrola3629@seznam.cz",
+    "zpusobile_pct":91.83
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.7103257,50.3067725 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7345,
+    "docasne_zpusoblile_pocet":532,
+    "nezpusobile_pocet":94,
+    "zpusobile_pocet":6719,
+    "prum_poc_zavad_lehke":2.6,
+    "prum_poc_zavad_vazne":0.19,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Nechanice",
+    "ulice":"Sovětice 19",
+    "provozovatel":"STK Sovětice CZ, s.r.o.",
+    "telefon":"495446127",
+    "email":"stksovetice@centrum.cz",
+    "zpusobile_pct":91.48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2374771,50.2227888 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2290,
+    "docasne_zpusoblile_pocet":278,
+    "nezpusobile_pocet":95,
+    "zpusobile_pocet":1917,
+    "prum_poc_zavad_lehke":4.13,
+    "prum_poc_zavad_vazne":0.46,
+    "prum_poc_zavad_nebezpecne":0.07,
+    "mesto":"Rychnov nad Kněžnou",
+    "ulice":"Solnice-Ještětice 110",
+    "provozovatel":"DEKRA CZ a.s.",
+    "telefon":"494 596 441",
+    "email":"stk-jestetice@dekra-automobil.cz",
+    "zpusobile_pct":83.71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.9205616,49.7704701 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7759,
+    "docasne_zpusoblile_pocet":514,
+    "nezpusobile_pocet":155,
+    "zpusobile_pocet":7090,
+    "prum_poc_zavad_lehke":5.17,
+    "prum_poc_zavad_vazne":0.22,
+    "prum_poc_zavad_nebezpecne":0.05,
+    "mesto":"Hlinsko",
+    "ulice":"Poličská 1365",
+    "provozovatel":"JUTEX s.r.o.",
+    "telefon":"469312003",
+    "email":"stk-hlinsko@dekra-automobil.cz",
+    "zpusobile_pct":91.38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.4057215,49.9797347 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6578,
+    "docasne_zpusoblile_pocet":1069,
+    "nezpusobile_pocet":55,
+    "zpusobile_pocet":5454,
+    "prum_poc_zavad_lehke":4.49,
+    "prum_poc_zavad_vazne":0.52,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Ústí nad Orlicí",
+    "ulice":"Letohradská 100",
+    "provozovatel":"STK Ústí s.r.o.",
+    "telefon":"465520174",
+    "email":"info@stkusti.cz",
+    "zpusobile_pct":82.91
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.9916838,49.8365197 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3768,
+    "docasne_zpusoblile_pocet":481,
+    "nezpusobile_pocet":25,
+    "zpusobile_pocet":3262,
+    "prum_poc_zavad_lehke":3.83,
+    "prum_poc_zavad_vazne":0.37,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Skuteč",
+    "ulice":"Vilibalda Svobody 948",
+    "provozovatel":"Jiří Vincenci",
+    "telefon":"469351210",
+    "email":"stkvincenci@seznam.cz",
+    "zpusobile_pct":86.57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.622519,50.616831 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6021,
+    "docasne_zpusoblile_pocet":688,
+    "nezpusobile_pocet":70,
+    "zpusobile_pocet":5263,
+    "prum_poc_zavad_lehke":2.84,
+    "prum_poc_zavad_vazne":0.36,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Vrchlabí",
+    "ulice":"Na Bělidle 1652",
+    "provozovatel":"MJ Vrchlabí spol. s r.o.",
+    "telefon":"499692899",
+    "email":"stk.vrchlabi@centrum.cz",
+    "zpusobile_pct":87.41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.4467993,50.1598187 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3048,
+    "docasne_zpusoblile_pocet":399,
+    "nezpusobile_pocet":40,
+    "zpusobile_pocet":2609,
+    "prum_poc_zavad_lehke":3.48,
+    "prum_poc_zavad_vazne":0.35,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Chlumec nad Cidlinou",
+    "ulice":"Pražská 782/IV",
+    "provozovatel":"PRO AUTO LOUDA s.r.o.",
+    "telefon":"495484594",
+    "email":"stk.chlumec@tiscali.cz",
+    "zpusobile_pct":85.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.5223201,50.5991463 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4840,
+    "docasne_zpusoblile_pocet":710,
+    "nezpusobile_pocet":70,
+    "zpusobile_pocet":4060,
+    "prum_poc_zavad_lehke":2.62,
+    "prum_poc_zavad_vazne":0.43,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Jilemnice",
+    "ulice":"K Javorku 982",
+    "provozovatel":"Jiří Machek - HYDROMA",
+    "telefon":"481 545 300",
+    "email":"stk.jilemnice@centrum.cz",
+    "zpusobile_pct":83.88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.4897449,50.2476911 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3743,
+    "docasne_zpusoblile_pocet":251,
+    "nezpusobile_pocet":270,
+    "zpusobile_pocet":3222,
+    "prum_poc_zavad_lehke":3.84,
+    "prum_poc_zavad_vazne":0.25,
+    "prum_poc_zavad_nebezpecne":0.08,
+    "mesto":"Nový Bydžov",
+    "ulice":"Jungmanova 1736",
+    "provozovatel":"AGRO SLATINY a.s.",
+    "telefon":"495490198",
+    "email":"stk.novy.bydzov@quick.cz",
+    "zpusobile_pct":86.08
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.989363,50.1966888 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5463,
+    "docasne_zpusoblile_pocet":375,
+    "nezpusobile_pocet":21,
+    "zpusobile_pocet":5067,
+    "prum_poc_zavad_lehke":3.64,
+    "prum_poc_zavad_vazne":0.24,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Třebechovice pod Orebem",
+    "ulice":"Pardubická 1338",
+    "provozovatel":"amcontrol s.r.o.",
+    "telefon":"495591283",
+    "email":"amcontrol@centrum.cz",
+    "zpusobile_pct":92.75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.897387,50.5706766 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6658,
+    "docasne_zpusoblile_pocet":559,
+    "nezpusobile_pocet":100,
+    "zpusobile_pocet":5999,
+    "prum_poc_zavad_lehke":4.82,
+    "prum_poc_zavad_vazne":0.28,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Trutnov",
+    "ulice":"Horská 932",
+    "provozovatel":"STK Trutnov s.r.o.",
+    "telefon":"499309199",
+    "email":"stk@stk-trutnov.cz",
+    "zpusobile_pct":90.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2666628,50.6149711 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3569,
+    "docasne_zpusoblile_pocet":451,
+    "nezpusobile_pocet":65,
+    "zpusobile_pocet":3053,
+    "prum_poc_zavad_lehke":2.97,
+    "prum_poc_zavad_vazne":0.4,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Jetřichov",
+    "ulice":"Meziměstí 3",
+    "provozovatel":"KUTÍK STK, spol. s r.o.",
+    "telefon":"491582041",
+    "email":"kutik.stk.jetrichov@seznam.cz",
+    "zpusobile_pct":85.54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2531208,49.9514016 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5598,
+    "docasne_zpusoblile_pocet":477,
+    "nezpusobile_pocet":71,
+    "zpusobile_pocet":5050,
+    "prum_poc_zavad_lehke":3.47,
+    "prum_poc_zavad_vazne":0.31,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Vysoké Mýto",
+    "ulice":"Vračovice 1",
+    "provozovatel":"STK a SME Vračovice s.r.o.",
+    "telefon":"465320634",
+    "email":"stk.vracovice@vysokemyto.cz",
+    "zpusobile_pct":90.21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.7722461,50.0628391 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4245,
+    "docasne_zpusoblile_pocet":371,
+    "nezpusobile_pocet":56,
+    "zpusobile_pocet":3818,
+    "prum_poc_zavad_lehke":4.2,
+    "prum_poc_zavad_vazne":0.28,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Pardubice",
+    "ulice":"Fáblovka 404",
+    "provozovatel":"Autocheck s.r.o.",
+    "telefon":"466 265 323",
+    "email":"info@stk-autocheck.cz",
+    "zpusobile_pct":89.94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.4648215,49.7546339 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2418,
+    "docasne_zpusoblile_pocet":159,
+    "nezpusobile_pocet":4,
+    "zpusobile_pocet":2255,
+    "prum_poc_zavad_lehke":3.56,
+    "prum_poc_zavad_vazne":0.21,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Svitavy",
+    "ulice":"Dimitrovova 2",
+    "provozovatel":"Ing. Glena Rauerová",
+    "telefon":"461 619  920",
+    "email":"info@stk-carnova.cz",
+    "zpusobile_pct":93.26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2784729,50.1521776 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2035,
+    "docasne_zpusoblile_pocet":284,
+    "nezpusobile_pocet":59,
+    "zpusobile_pocet":1692,
+    "prum_poc_zavad_lehke":2,
+    "prum_poc_zavad_vazne":0.49,
+    "prum_poc_zavad_nebezpecne":0.04,
+    "mesto":"Rychnov nad Kněžnou",
+    "ulice":"Pod Budínem 1699",
+    "provozovatel":"DEKRA CZ a.s.",
+    "telefon":"494 620 226",
+    "email":"stk-rychnov@dekra-automobil.cz",
+    "zpusobile_pct":83.14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6457965,49.7588288 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2795,
+    "docasne_zpusoblile_pocet":430,
+    "nezpusobile_pocet":124,
+    "zpusobile_pocet":2241,
+    "prum_poc_zavad_lehke":4.41,
+    "prum_poc_zavad_vazne":0.57,
+    "prum_poc_zavad_nebezpecne":0.06,
+    "mesto":"Moravská Třebová",
+    "ulice":"Svitavská 1610",
+    "provozovatel":"ABERA spol. s r.o.",
+    "telefon":"461315566",
+    "email":"mt@abera.cz",
+    "zpusobile_pct":80.18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.7959575,49.9365037 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5222,
+    "docasne_zpusoblile_pocet":274,
+    "nezpusobile_pocet":114,
+    "zpusobile_pocet":4834,
+    "prum_poc_zavad_lehke":3.87,
+    "prum_poc_zavad_vazne":0.16,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Chrudim",
+    "ulice":"Obce Ležáků 758",
+    "provozovatel":"SALIO s.r.o.",
+    "telefon":"469 318 192",
+    "email":"info@stk-salio.cz",
+    "zpusobile_pct":92.57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.4939968,50.4704352 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4371,
+    "docasne_zpusoblile_pocet":416,
+    "nezpusobile_pocet":37,
+    "zpusobile_pocet":3918,
+    "prum_poc_zavad_lehke":3.05,
+    "prum_poc_zavad_vazne":0.3,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Nová Paka",
+    "ulice":"Kumburský Újezd čp. 90",
+    "provozovatel":"All Cars Nová Paka s.r.o.",
+    "telefon":"725699599",
+    "email":"info@stknp.cz",
+    "zpusobile_pct":89.64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.4031564,49.6745081 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3142,
+    "docasne_zpusoblile_pocet":364,
+    "nezpusobile_pocet":50,
+    "zpusobile_pocet":2728,
+    "prum_poc_zavad_lehke":4.41,
+    "prum_poc_zavad_vazne":0.35,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Světlá nad Sázavou",
+    "ulice":"Zahrádecká 987",
+    "provozovatel":"Šmíd a spol., v.o.s.",
+    "telefon":"607844508",
+    "email":"stksvetla@seznam.cz",
+    "zpusobile_pct":86.82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.9111828,49.2149614 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3909,
+    "docasne_zpusoblile_pocet":506,
+    "nezpusobile_pocet":21,
+    "zpusobile_pocet":3382,
+    "prum_poc_zavad_lehke":2.72,
+    "prum_poc_zavad_vazne":0.48,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Třebíč",
+    "ulice":"Brněnská 123",
+    "provozovatel":"KTS-Třebíč s.r.o.",
+    "telefon":"568821571",
+    "email":"kts3701@volny.cz",
+    "zpusobile_pct":86.52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.1246914,49.4631934 ]
+    },
+    "properties": {
+    "prohlidky_celkem":9278,
+    "docasne_zpusoblile_pocet":778,
+    "nezpusobile_pocet":90,
+    "zpusobile_pocet":8410,
+    "prum_poc_zavad_lehke":4.23,
+    "prum_poc_zavad_vazne":0.26,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Prostějov",
+    "ulice":"Letecká 2",
+    "provozovatel":"STKm Prostějov s.r.o.",
+    "telefon":"582343614",
+    "email":"dadak@stkmprostejov.cz",
+    "zpusobile_pct":90.64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.578808,49.1207844 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7717,
+    "docasne_zpusoblile_pocet":787,
+    "nezpusobile_pocet":99,
+    "zpusobile_pocet":6831,
+    "prum_poc_zavad_lehke":2.02,
+    "prum_poc_zavad_vazne":0.36,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Březolupy",
+    "ulice":"Březolupy 475",
+    "provozovatel":"Autotest - Tour,  spol.s r.o.",
+    "telefon":"572580118",
+    "email":"stk-brezolupy@dekra.cz",
+    "zpusobile_pct":88.52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.9812686,49.3631873 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5768,
+    "docasne_zpusoblile_pocet":341,
+    "nezpusobile_pocet":11,
+    "zpusobile_pocet":5416,
+    "prum_poc_zavad_lehke":1.81,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Velké Meziříčí",
+    "ulice":"Jestřábec 2044",
+    "provozovatel":"Autoklub Velké Meziříčí s.r.o.",
+    "telefon":"566521170",
+    "email":"stk3706@cbox.cz",
+    "zpusobile_pct":93.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5263555,49.5066556 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3573,
+    "docasne_zpusoblile_pocet":307,
+    "nezpusobile_pocet":37,
+    "zpusobile_pocet":3229,
+    "prum_poc_zavad_lehke":3.28,
+    "prum_poc_zavad_vazne":0.32,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Kunštát",
+    "ulice":"Palackého 154",
+    "provozovatel":"STK OA s.r.o.",
+    "telefon":"516462184",
+    "email":"stk.oa@tiscali.cz",
+    "zpusobile_pct":90.37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.5913987,49.3827974 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5126,
+    "docasne_zpusoblile_pocet":318,
+    "nezpusobile_pocet":7,
+    "zpusobile_pocet":4801,
+    "prum_poc_zavad_lehke":2.96,
+    "prum_poc_zavad_vazne":0.17,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Jihlava",
+    "ulice":"Znojemská 82",
+    "provozovatel":"STK Jihlava a.s.",
+    "telefon":"567 309 544",
+    "email":"objednavky@stkjihlava.cz",
+    "zpusobile_pct":93.66
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6547732,49.2170294 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5861,
+    "docasne_zpusoblile_pocet":106,
+    "nezpusobile_pocet":14,
+    "zpusobile_pocet":5741,
+    "prum_poc_zavad_lehke":2.72,
+    "prum_poc_zavad_vazne":0.04,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Brno",
+    "ulice":"Kulkova 30",
+    "provozovatel":"AZ SERVIS STK, s.r.o.",
+    "telefon":"739095456",
+    "email":"stk37.10@tiscali.cz",
+    "zpusobile_pct":97.95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.4093699,49.306944 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6945,
+    "docasne_zpusoblile_pocet":557,
+    "nezpusobile_pocet":44,
+    "zpusobile_pocet":6344,
+    "prum_poc_zavad_lehke":1.5,
+    "prum_poc_zavad_vazne":0.21,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Kroměříž",
+    "ulice":"Bílanská 2595",
+    "provozovatel":"CSAO, spol. s r.o.",
+    "telefon":"573 340 824",
+    "email":"csao-stk@quick.cz",
+    "zpusobile_pct":91.35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5781169,49.2077028 ]
+    },
+    "properties": {
+    "prohlidky_celkem":12868,
+    "docasne_zpusoblile_pocet":330,
+    "nezpusobile_pocet":25,
+    "zpusobile_pocet":12513,
+    "prum_poc_zavad_lehke":1.89,
+    "prum_poc_zavad_vazne":0.07,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Zlín-Malenovice",
+    "ulice":"třída 3. května 1147",
+    "provozovatel":"DEKRA CZ a.s.",
+    "telefon":"577 105 353, 577 106 927",
+    "email":"stkzlin@tiscali.cz",
+    "zpusobile_pct":97.24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6015714,49.2246114 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8630,
+    "docasne_zpusoblile_pocet":497,
+    "nezpusobile_pocet":41,
+    "zpusobile_pocet":8092,
+    "prum_poc_zavad_lehke":1.95,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Brno",
+    "ulice":"Sladkovského 7",
+    "provozovatel":"STK Královo Pole, s.r.o.",
+    "telefon":"541 212 116, 541 519 420",
+    "email":"stk-brno@volny.cz",
+    "zpusobile_pct":93.77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6394056,49.1715115 ]
+    },
+    "properties": {
+    "prohlidky_celkem":26,
+    "docasne_zpusoblile_pocet":1,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":25,
+    "prum_poc_zavad_lehke":6,
+    "prum_poc_zavad_vazne":0.35,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Brno",
+    "ulice":"Hájecká 14",
+    "provozovatel":"ČSAD Brno-Černovice a.s.",
+    "telefon":"548122402",
+    "email":"stk3716@best-transport.cz",
+    "zpusobile_pct":96.15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6018321,49.4865482 ]
+    },
+    "properties": {
+    "prohlidky_celkem":16,
+    "docasne_zpusoblile_pocet":2,
+    "nezpusobile_pocet":1,
+    "zpusobile_pocet":13,
+    "prum_poc_zavad_lehke":1.25,
+    "prum_poc_zavad_vazne":0.88,
+    "prum_poc_zavad_nebezpecne":0.12,
+    "mesto":"Skalice nad Svitavou",
+    "ulice":"Skalice nad Svitavou 169",
+    "provozovatel":"AGROAKCIA, s.r.o.",
+    "telefon":"516 469 381, 516 469 311",
+    "email":"agroakcia@tiscali.cz",
+    "zpusobile_pct":81.25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.1436344,48.8678271 ]
+    },
+    "properties": {
+    "prohlidky_celkem":13001,
+    "docasne_zpusoblile_pocet":803,
+    "nezpusobile_pocet":108,
+    "zpusobile_pocet":12090,
+    "prum_poc_zavad_lehke":2.21,
+    "prum_poc_zavad_vazne":0.16,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Hodonín",
+    "ulice":"Měšťanská 4339/146A",
+    "provozovatel":"ESTEKO a.s.",
+    "telefon":"518351102",
+    "email":"esteko@quick.cz",
+    "zpusobile_pct":92.99
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.7258263,48.9472798 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7987,
+    "docasne_zpusoblile_pocet":566,
+    "nezpusobile_pocet":169,
+    "zpusobile_pocet":7252,
+    "prum_poc_zavad_lehke":1.79,
+    "prum_poc_zavad_vazne":0.22,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Hustopeče",
+    "ulice":"Hybešova 14",
+    "provozovatel":"INTERTEC s.r.o.",
+    "telefon":"519402840",
+    "email":"hlavka@agrotec.cz",
+    "zpusobile_pct":90.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6006766,49.1800688 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4258,
+    "docasne_zpusoblile_pocet":161,
+    "nezpusobile_pocet":37,
+    "zpusobile_pocet":4060,
+    "prum_poc_zavad_lehke":1.45,
+    "prum_poc_zavad_vazne":0.12,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Brno",
+    "ulice":"Opavská 26/8",
+    "provozovatel":"DEKRA CZ a.s.",
+    "telefon":"543 217 079, 542 154 471",
+    "email":"stk-brno@dekra.cz",
+    "zpusobile_pct":95.35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.8777789,49.1491368 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8100,
+    "docasne_zpusoblile_pocet":235,
+    "nezpusobile_pocet":50,
+    "zpusobile_pocet":7815,
+    "prum_poc_zavad_lehke":2.65,
+    "prum_poc_zavad_vazne":0.09,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Slavkov u Brna",
+    "ulice":"Čs. armády 217",
+    "provozovatel":"STK Slavkov spol. s r.o.",
+    "telefon":"544220044",
+    "email":"stk.slavkov@seznam.cz",
+    "zpusobile_pct":96.48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.519622,49.299823 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4859,
+    "docasne_zpusoblile_pocet":181,
+    "nezpusobile_pocet":19,
+    "zpusobile_pocet":4659,
+    "prum_poc_zavad_lehke":2.05,
+    "prum_poc_zavad_vazne":0.08,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Kuřim",
+    "ulice":"Tišnovská 1968/33",
+    "provozovatel":"BĚLOHRADSKÝ spol. s r.o.",
+    "telefon":"541210437",
+    "email":"stkkurim@seznam.cz",
+    "zpusobile_pct":95.88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5721481,49.0213942 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8398,
+    "docasne_zpusoblile_pocet":319,
+    "nezpusobile_pocet":91,
+    "zpusobile_pocet":7988,
+    "prum_poc_zavad_lehke":2.43,
+    "prum_poc_zavad_vazne":0.21,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Vlčnov",
+    "ulice":"Vlčnov 556",
+    "provozovatel":"STK Vlčnov, s.r.o.",
+    "telefon":"572675180",
+    "email":"stk.vlc@tiscali.cz",
+    "zpusobile_pct":95.12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6521051,49.4938621 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6176,
+    "docasne_zpusoblile_pocet":530,
+    "nezpusobile_pocet":67,
+    "zpusobile_pocet":5579,
+    "prum_poc_zavad_lehke":2.48,
+    "prum_poc_zavad_vazne":0.26,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Boskovice",
+    "ulice":"Dřevařská 2250",
+    "provozovatel":"Auto STK  spol.s.r.o.",
+    "telefon":"516453191",
+    "email":"info@stk-boskovice.cz",
+    "zpusobile_pct":90.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.406561,49.3080666 ]
+    },
+    "properties": {
+    "prohlidky_celkem":12,
+    "docasne_zpusoblile_pocet":1,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":11,
+    "prum_poc_zavad_lehke":0.83,
+    "prum_poc_zavad_vazne":0.5,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Kroměříž",
+    "ulice":"Hulínská 2383",
+    "provozovatel":"KM AUTEXIM, spol. s r.o.",
+    "telefon":"573 326 280, 573 326 281",
+    "email":"stk@kromexim.cz",
+    "zpusobile_pct":91.67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.8358699,49.0335861 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4699,
+    "docasne_zpusoblile_pocet":582,
+    "nezpusobile_pocet":31,
+    "zpusobile_pocet":4086,
+    "prum_poc_zavad_lehke":4.24,
+    "prum_poc_zavad_vazne":0.38,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Moravské Budějovice",
+    "ulice":"Lažínky 71",
+    "provozovatel":"Smetana a Smetana s.r.o.",
+    "telefon":"568420332",
+    "email":"stk.smetana@atlas.cz",
+    "zpusobile_pct":86.95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.4212856,49.3404487 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7107,
+    "docasne_zpusoblile_pocet":185,
+    "nezpusobile_pocet":17,
+    "zpusobile_pocet":6905,
+    "prum_poc_zavad_lehke":1.36,
+    "prum_poc_zavad_vazne":0.07,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Tišnov",
+    "ulice":"Za Mlýnem 5",
+    "provozovatel":"KORAL s.r.o.",
+    "telefon":"549411700",
+    "email":"malaskova@koral.biz",
+    "zpusobile_pct":97.16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.010163,49.1361199 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7046,
+    "docasne_zpusoblile_pocet":267,
+    "nezpusobile_pocet":35,
+    "zpusobile_pocet":6744,
+    "prum_poc_zavad_lehke":2.16,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Valašské Klobouky",
+    "ulice":"Brumovská 279",
+    "provozovatel":"ORSÁK TK s.r.o.",
+    "telefon":"577320330",
+    "email":"atos-stk3732@volny.cz",
+    "zpusobile_pct":95.71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.9092002,49.5236402 ]
+    },
+    "properties": {
+    "prohlidky_celkem":11505,
+    "docasne_zpusoblile_pocet":955,
+    "nezpusobile_pocet":90,
+    "zpusobile_pocet":10460,
+    "prum_poc_zavad_lehke":2.56,
+    "prum_poc_zavad_vazne":0.2,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Nové Veselí",
+    "ulice":"Žďárská 311",
+    "provozovatel":"STK Nové Veselí, s.r.o.",
+    "telefon":"566667075",
+    "email":"stk37.33@unet.cz",
+    "zpusobile_pct":90.92
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.7857123,48.801015 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7866,
+    "docasne_zpusoblile_pocet":229,
+    "nezpusobile_pocet":36,
+    "zpusobile_pocet":7601,
+    "prum_poc_zavad_lehke":2.65,
+    "prum_poc_zavad_vazne":0.08,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Lednice",
+    "ulice":"Nejdecká 719",
+    "provozovatel":"STK AUTO LEDNICE s.r.o.",
+    "telefon":"519340646",
+    "email":"sbuzrla@autowozar.cz",
+    "zpusobile_pct":96.63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.4064723,49.1869069 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5544,
+    "docasne_zpusoblile_pocet":40,
+    "nezpusobile_pocet":78,
+    "zpusobile_pocet":5426,
+    "prum_poc_zavad_lehke":1.35,
+    "prum_poc_zavad_vazne":0.03,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Rosice",
+    "ulice":"Brněnská 1242",
+    "provozovatel":"BĚLOHRADSKÝ spol. s r.o.",
+    "telefon":"546410475",
+    "email":"stk3735@seznam.cz",
+    "zpusobile_pct":97.87
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6398842,49.3709383 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5257,
+    "docasne_zpusoblile_pocet":400,
+    "nezpusobile_pocet":53,
+    "zpusobile_pocet":4804,
+    "prum_poc_zavad_lehke":2.44,
+    "prum_poc_zavad_vazne":0.21,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Blansko",
+    "ulice":"Poříčí 17",
+    "provozovatel":"TOP 1 spol. s r.o.",
+    "telefon":"516 410 510-1",
+    "email":"stkblansko@iol.cz",
+    "zpusobile_pct":91.38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.1230122,49.0173622 ]
+    },
+    "properties": {
+    "prohlidky_celkem":9630,
+    "docasne_zpusoblile_pocet":550,
+    "nezpusobile_pocet":48,
+    "zpusobile_pocet":9032,
+    "prum_poc_zavad_lehke":2.23,
+    "prum_poc_zavad_vazne":0.12,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Kyjov",
+    "ulice":"Boršovská 2622/91",
+    "provozovatel":"STK Kyjov s.r.o",
+    "telefon":"518615140",
+    "email":"stkkyjov@wo.cz",
+    "zpusobile_pct":93.79
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.4067606,49.3064809 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5219,
+    "docasne_zpusoblile_pocet":749,
+    "nezpusobile_pocet":46,
+    "zpusobile_pocet":4424,
+    "prum_poc_zavad_lehke":2.35,
+    "prum_poc_zavad_vazne":0.45,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Kroměříž",
+    "ulice":"Hulínská 3221",
+    "provozovatel":"Dapas, a.s.",
+    "telefon":"573345055",
+    "email":"stk.dapas@seznam.cz",
+    "zpusobile_pct":84.77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.3713643,48.9443037 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5117,
+    "docasne_zpusoblile_pocet":410,
+    "nezpusobile_pocet":51,
+    "zpusobile_pocet":4656,
+    "prum_poc_zavad_lehke":1.87,
+    "prum_poc_zavad_vazne":0.2,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Veselí nad Moravou",
+    "ulice":"Masarykova 1663",
+    "provozovatel":"ESTEKO a.s.",
+    "telefon":"518324460",
+    "email":"stkveseli@esteko.cz",
+    "zpusobile_pct":90.99
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1682124,49.1995088 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4906,
+    "docasne_zpusoblile_pocet":339,
+    "nezpusobile_pocet":25,
+    "zpusobile_pocet":4542,
+    "prum_poc_zavad_lehke":4.11,
+    "prum_poc_zavad_vazne":0.25,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Kralice nad Oslavou",
+    "ulice":"Nad Kralickým kopcem 307",
+    "provozovatel":"Pavel Dvořák",
+    "telefon":"568620279",
+    "email":"stkdvorak@gmail.com",
+    "zpusobile_pct":92.58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.8897814,49.5930725 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3062,
+    "docasne_zpusoblile_pocet":198,
+    "nezpusobile_pocet":21,
+    "zpusobile_pocet":2843,
+    "prum_poc_zavad_lehke":2.24,
+    "prum_poc_zavad_vazne":0.17,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Konice",
+    "ulice":"Vrchlického 349",
+    "provozovatel":"STATEKON s.r.o.",
+    "telefon":"582396048",
+    "email":"statekon@tiscali.cz",
+    "zpusobile_pct":92.85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5433877,49.3250736 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6704,
+    "docasne_zpusoblile_pocet":954,
+    "nezpusobile_pocet":56,
+    "zpusobile_pocet":5694,
+    "prum_poc_zavad_lehke":3,
+    "prum_poc_zavad_vazne":0.54,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Holešov",
+    "ulice":"Palackého 464",
+    "provozovatel":"TEST-CAR Holešov spol. s.r.o.",
+    "telefon":"573394642",
+    "email":"miroslavbelli@tiscali.cz",
+    "zpusobile_pct":84.93
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.467975,49.041268 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8476,
+    "docasne_zpusoblile_pocet":363,
+    "nezpusobile_pocet":73,
+    "zpusobile_pocet":8040,
+    "prum_poc_zavad_lehke":2.72,
+    "prum_poc_zavad_vazne":0.16,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Kunovice",
+    "ulice":"Náměstí Svobody 578",
+    "provozovatel":"STK Kunovice s.r.o.",
+    "telefon":"572548548",
+    "email":"stkkunovice@stkkunovice.cz",
+    "zpusobile_pct":94.86
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.1477569,49.4515618 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6681,
+    "docasne_zpusoblile_pocet":358,
+    "nezpusobile_pocet":35,
+    "zpusobile_pocet":6288,
+    "prum_poc_zavad_lehke":2.6,
+    "prum_poc_zavad_vazne":0.23,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Rožnov pod Radhoštěm",
+    "ulice":"Tvarůžkova 2491",
+    "provozovatel":"STK Rožnov, s.r.o.",
+    "telefon":"571613421",
+    "email":"stkroznov@stkroznov.cz",
+    "zpusobile_pct":94.12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.9777623,49.1575435 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5875,
+    "docasne_zpusoblile_pocet":472,
+    "nezpusobile_pocet":17,
+    "zpusobile_pocet":5386,
+    "prum_poc_zavad_lehke":2.89,
+    "prum_poc_zavad_vazne":0.2,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Lipník",
+    "ulice":"Dolní Vilémovice 148",
+    "provozovatel":"STK Dolní Vilémovice, s.r.o.",
+    "telefon":"568862060",
+    "email":"info@stkvilemovice.cz",
+    "zpusobile_pct":91.68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5365663,48.9879017 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5072,
+    "docasne_zpusoblile_pocet":242,
+    "nezpusobile_pocet":10,
+    "zpusobile_pocet":4820,
+    "prum_poc_zavad_lehke":2.13,
+    "prum_poc_zavad_vazne":0.12,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Pohořelice",
+    "ulice":"Brněnská 1019",
+    "provozovatel":"Ing. Pavel Kurimai",
+    "telefon":"602 736 275, 519 424 710",
+    "email":"stk-kurimai@volny.cz",
+    "zpusobile_pct":95.03
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.0091569,49.290023 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4686,
+    "docasne_zpusoblile_pocet":186,
+    "nezpusobile_pocet":30,
+    "zpusobile_pocet":4470,
+    "prum_poc_zavad_lehke":2.1,
+    "prum_poc_zavad_vazne":0.14,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Vyškov",
+    "ulice":"Průmyslová 591/1",
+    "provozovatel":"Stavební konstrukce Vyškov a.s.",
+    "telefon":"517341956",
+    "email":"cerny@stk-vyskov.cz",
+    "zpusobile_pct":95.39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3180135,49.0394113 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4208,
+    "docasne_zpusoblile_pocet":341,
+    "nezpusobile_pocet":17,
+    "zpusobile_pocet":3850,
+    "prum_poc_zavad_lehke":2.34,
+    "prum_poc_zavad_vazne":0.21,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Moravský Krumlov",
+    "ulice":"Okružní 399",
+    "provozovatel":"STK Moravský Krumlov s.r.o.",
+    "telefon":"515321305",
+    "email":"stk@stk-mk.cz",
+    "zpusobile_pct":91.49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.8785696,49.228256 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3887,
+    "docasne_zpusoblile_pocet":606,
+    "nezpusobile_pocet":38,
+    "zpusobile_pocet":3243,
+    "prum_poc_zavad_lehke":1.97,
+    "prum_poc_zavad_vazne":0.58,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Třebíč",
+    "ulice":"Na Nivkách 305",
+    "provozovatel":"STK Automoto TŘEBÍČ s.r.o.",
+    "telefon":"568 821 680",
+    "email":"info@stk-trebic.cz",
+    "zpusobile_pct":83.43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.4590712,49.1732801 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6227,
+    "docasne_zpusoblile_pocet":840,
+    "nezpusobile_pocet":160,
+    "zpusobile_pocet":5227,
+    "prum_poc_zavad_lehke":2.83,
+    "prum_poc_zavad_vazne":0.5,
+    "prum_poc_zavad_nebezpecne":0.04,
+    "mesto":"Telč",
+    "ulice":"Radkovská 230",
+    "provozovatel":"Opravny Telč, a.s.",
+    "telefon":"567213005",
+    "email":"stk@opravnytelc.cz",
+    "zpusobile_pct":83.94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6008784,49.1459957 ]
+    },
+    "properties": {
+    "prohlidky_celkem":16269,
+    "docasne_zpusoblile_pocet":546,
+    "nezpusobile_pocet":22,
+    "zpusobile_pocet":15701,
+    "prum_poc_zavad_lehke":2.49,
+    "prum_poc_zavad_vazne":0.07,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Brno",
+    "ulice":"Vídeňská 267/106d",
+    "provozovatel":"STK BRNO s.r.o.",
+    "telefon":"547 212 875, 547 212 884",
+    "email":"stkbrno@seznam.cz",
+    "zpusobile_pct":96.51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.6071269,49.2344743 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8633,
+    "docasne_zpusoblile_pocet":687,
+    "nezpusobile_pocet":106,
+    "zpusobile_pocet":7840,
+    "prum_poc_zavad_lehke":4.44,
+    "prum_poc_zavad_vazne":0.28,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Dlouhá Brtnice",
+    "ulice":"Dlouhá Brtnice 165",
+    "provozovatel":"AUTOCONTROL, spol. s r.o.",
+    "telefon":"567210627",
+    "email":"info@autocontrol.cz",
+    "zpusobile_pct":90.81
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5554027,49.1730593 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4423,
+    "docasne_zpusoblile_pocet":177,
+    "nezpusobile_pocet":22,
+    "zpusobile_pocet":4224,
+    "prum_poc_zavad_lehke":1.73,
+    "prum_poc_zavad_vazne":0.09,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Brno",
+    "ulice":"Jihlavská 29",
+    "provozovatel":"BĚLOHRADSKÝ spol. s r.o.",
+    "telefon":"547 211 202",
+    "email":"stk3756@seznam.cz",
+    "zpusobile_pct":95.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.678227,49.1758713 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6922,
+    "docasne_zpusoblile_pocet":348,
+    "nezpusobile_pocet":59,
+    "zpusobile_pocet":6515,
+    "prum_poc_zavad_lehke":1.42,
+    "prum_poc_zavad_vazne":0.15,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Brno",
+    "ulice":"Řípská 11e",
+    "provozovatel":"STK SLATINA, a.s.",
+    "telefon":"533440180",
+    "email":"stk@stkslatina.cz",
+    "zpusobile_pct":94.12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.7617066,49.1776096 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4731,
+    "docasne_zpusoblile_pocet":330,
+    "nezpusobile_pocet":38,
+    "zpusobile_pocet":4363,
+    "prum_poc_zavad_lehke":1.67,
+    "prum_poc_zavad_vazne":0.14,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Jiříkovice",
+    "ulice":"Rohlenka 250",
+    "provozovatel":"STK Jiříkovice s.r.o.",
+    "telefon":"544212101",
+    "email":"stkjirikovice@powercars.cz",
+    "zpusobile_pct":92.22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.4025709,49.1678285 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4377,
+    "docasne_zpusoblile_pocet":295,
+    "nezpusobile_pocet":62,
+    "zpusobile_pocet":4020,
+    "prum_poc_zavad_lehke":1.48,
+    "prum_poc_zavad_vazne":0.2,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Tetčice",
+    "ulice":"Palackého 379",
+    "provozovatel":"DAJAN spol. s r.o.",
+    "telefon":"546213856",
+    "email":"stktetcice@seznam.cz",
+    "zpusobile_pct":91.84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2941515,49.2215531 ]
+    },
+    "properties": {
+    "prohlidky_celkem":1057,
+    "docasne_zpusoblile_pocet":37,
+    "nezpusobile_pocet":23,
+    "zpusobile_pocet":997,
+    "prum_poc_zavad_lehke":2.18,
+    "prum_poc_zavad_vazne":0.09,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Zbraslav",
+    "ulice":"Zbraslav 448",
+    "provozovatel":"Stanislav Pelant",
+    "telefon":"546213323",
+    "email":"pelantstanislav@seznam.cz",
+    "zpusobile_pct":94.32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6182534,49.1628732 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8106,
+    "docasne_zpusoblile_pocet":164,
+    "nezpusobile_pocet":34,
+    "zpusobile_pocet":7908,
+    "prum_poc_zavad_lehke":1.85,
+    "prum_poc_zavad_vazne":0.04,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Brno",
+    "ulice":"K terminálu 700/1",
+    "provozovatel":"STK Heršpice s.r.o.",
+    "telefon":"543213549",
+    "email":"stkherspice@seznam.cz",
+    "zpusobile_pct":97.56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6045895,49.1333496 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4945,
+    "docasne_zpusoblile_pocet":252,
+    "nezpusobile_pocet":11,
+    "zpusobile_pocet":4682,
+    "prum_poc_zavad_lehke":2.29,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Modřice",
+    "ulice":"Brněnská 404",
+    "provozovatel":"STK MODŘICE s.r.o.",
+    "telefon":"547212847",
+    "email":"stk@stkmodrice.cz",
+    "zpusobile_pct":94.68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.5647493,49.3948706 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3288,
+    "docasne_zpusoblile_pocet":288,
+    "nezpusobile_pocet":10,
+    "zpusobile_pocet":2990,
+    "prum_poc_zavad_lehke":4.89,
+    "prum_poc_zavad_vazne":0.32,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Jihlava",
+    "ulice":"Žižkova 5428/120",
+    "provozovatel":"Lenka Hosová",
+    "telefon":"567212919",
+    "email":"stk.jihlava@iex.cz",
+    "zpusobile_pct":90.94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.7634393,49.2426747 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2902,
+    "docasne_zpusoblile_pocet":339,
+    "nezpusobile_pocet":98,
+    "zpusobile_pocet":2465,
+    "prum_poc_zavad_lehke":2.54,
+    "prum_poc_zavad_vazne":0.45,
+    "prum_poc_zavad_nebezpecne":0.05,
+    "mesto":"Okříšky",
+    "ulice":"Jihlavská 595",
+    "provozovatel":"TZ Auto, s.r.o.",
+    "telefon":"564034836",
+    "email":"info@stkokrisky.cz",
+    "zpusobile_pct":84.94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.5955141,49.4083839 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4508,
+    "docasne_zpusoblile_pocet":228,
+    "nezpusobile_pocet":4,
+    "zpusobile_pocet":4276,
+    "prum_poc_zavad_lehke":1.57,
+    "prum_poc_zavad_vazne":0.11,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Jihlava",
+    "ulice":"Mlýnská 60",
+    "provozovatel":"BĚLOHRADSKÝ spol. s r.o.",
+    "telefon":"567213645",
+    "email":"stk3765@seznam.cz",
+    "zpusobile_pct":94.85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.0709491,48.8542591 ]
+    },
+    "properties": {
+    "prohlidky_celkem":15898,
+    "docasne_zpusoblile_pocet":1164,
+    "nezpusobile_pocet":71,
+    "zpusobile_pocet":14663,
+    "prum_poc_zavad_lehke":4.23,
+    "prum_poc_zavad_vazne":0.23,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Znojmo",
+    "ulice":"Dobšická 2483/6",
+    "provozovatel":"STK Znojmo, s.r.o.",
+    "telefon":"515230688",
+    "email":"stk.znojmo@psota-znojmo.cz",
+    "zpusobile_pct":92.23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5286493,49.196752 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4750,
+    "docasne_zpusoblile_pocet":514,
+    "nezpusobile_pocet":51,
+    "zpusobile_pocet":4185,
+    "prum_poc_zavad_lehke":1.64,
+    "prum_poc_zavad_vazne":0.3,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Otrokovice",
+    "ulice":"Letiště 1894",
+    "provozovatel":"HESPO s.r.o.",
+    "telefon":"577106006",
+    "email":"stk.otrokovice@seznam.cz",
+    "zpusobile_pct":88.11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8466694,49.21754 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8709,
+    "docasne_zpusoblile_pocet":632,
+    "nezpusobile_pocet":27,
+    "zpusobile_pocet":8050,
+    "prum_poc_zavad_lehke":2.11,
+    "prum_poc_zavad_vazne":0.28,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Vizovice",
+    "ulice":"Zlínská ulice 1160",
+    "provozovatel":"STK CENTRUM VIZOVICE, s.r.o.",
+    "telefon":"577018639",
+    "email":"info@stk.vizovice",
+    "zpusobile_pct":92.43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6759416,49.2009409 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5163,
+    "docasne_zpusoblile_pocet":135,
+    "nezpusobile_pocet":8,
+    "zpusobile_pocet":5020,
+    "prum_poc_zavad_lehke":2.42,
+    "prum_poc_zavad_vazne":0.06,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Brno - Líšeň",
+    "ulice":"Trnkova 2785",
+    "provozovatel":"AMEX spol. s r. o.",
+    "telefon":"544213702",
+    "email":"stk3769@seznam.cz",
+    "zpusobile_pct":97.23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6588335,49.1846502 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8710,
+    "docasne_zpusoblile_pocet":313,
+    "nezpusobile_pocet":23,
+    "zpusobile_pocet":8374,
+    "prum_poc_zavad_lehke":2.64,
+    "prum_poc_zavad_vazne":0.07,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Brno - Černovice",
+    "ulice":"Olomoucká 1283/156c",
+    "provozovatel":"INSPEKT CAR s.r.o.",
+    "telefon":"603735482",
+    "email":"inspektcar@seznam.cz",
+    "zpusobile_pct":96.14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.479999,49.074273 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5485,
+    "docasne_zpusoblile_pocet":454,
+    "nezpusobile_pocet":82,
+    "zpusobile_pocet":4949,
+    "prum_poc_zavad_lehke":1.82,
+    "prum_poc_zavad_vazne":0.22,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Uherské Hradiště",
+    "ulice":"Sokolovská 1792",
+    "provozovatel":"STK Uherské Hradiště s.r.o.",
+    "telefon":"608147151",
+    "email":"info@stkuh.cz",
+    "zpusobile_pct":90.23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6473932,49.1873755 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5121,
+    "docasne_zpusoblile_pocet":193,
+    "nezpusobile_pocet":7,
+    "zpusobile_pocet":4921,
+    "prum_poc_zavad_lehke":2.33,
+    "prum_poc_zavad_vazne":0.07,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Brno - Černovice",
+    "ulice":"Olomoucká ul. č.p. 1292",
+    "provozovatel":"STK Olomoucká s.r.o.",
+    "telefon":"773770055",
+    "email":"stkolomoucka@seznam.cz",
+    "zpusobile_pct":96.09
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.8884312,48.7649143 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3616,
+    "docasne_zpusoblile_pocet":225,
+    "nezpusobile_pocet":9,
+    "zpusobile_pocet":3382,
+    "prum_poc_zavad_lehke":2.55,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Břeclav",
+    "ulice":"Lidická 1711/3",
+    "provozovatel":"STK-SME Břeclav s.r.o.",
+    "telefon":"541210183",
+    "email":"stk.breclav@psota-znojmo.cz",
+    "zpusobile_pct":93.53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.2027263,50.2130406 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3991,
+    "docasne_zpusoblile_pocet":394,
+    "nezpusobile_pocet":241,
+    "zpusobile_pocet":3356,
+    "prum_poc_zavad_lehke":0.98,
+    "prum_poc_zavad_vazne":0.24,
+    "prum_poc_zavad_nebezpecne":0.09,
+    "mesto":"Jeseník",
+    "ulice":"Slunná 98",
+    "provozovatel":"SLUŽBY BPK s.r.o.",
+    "telefon":"584401332",
+    "email":"stk@sluzby-bpk.cz",
+    "zpusobile_pct":84.09
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.9618022,49.9546334 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3423,
+    "docasne_zpusoblile_pocet":705,
+    "nezpusobile_pocet":118,
+    "zpusobile_pocet":2600,
+    "prum_poc_zavad_lehke":3.73,
+    "prum_poc_zavad_vazne":0.79,
+    "prum_poc_zavad_nebezpecne":0.05,
+    "mesto":"Šumperk",
+    "ulice":"Zábřežská 658/73",
+    "provozovatel":"ABA STKáčko s.r.o.",
+    "telefon":"583 213 800, 583 217 477",
+    "email":"abastk@spk.cz",
+    "zpusobile_pct":75.96
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.2790226,49.7247825 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6033,
+    "docasne_zpusoblile_pocet":252,
+    "nezpusobile_pocet":96,
+    "zpusobile_pocet":5685,
+    "prum_poc_zavad_lehke":1.63,
+    "prum_poc_zavad_vazne":0.12,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Šternberk",
+    "ulice":"Litovelská 14",
+    "provozovatel":"ŠTERNBERSKÁ STK s.r.o.",
+    "telefon":"585012674",
+    "email":"stk.sternberk@volny.cz",
+    "zpusobile_pct":94.23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.2533595,49.6086877 ]
+    },
+    "properties": {
+    "prohlidky_celkem":13113,
+    "docasne_zpusoblile_pocet":349,
+    "nezpusobile_pocet":68,
+    "zpusobile_pocet":12696,
+    "prum_poc_zavad_lehke":2.15,
+    "prum_poc_zavad_vazne":0.1,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Olomouc",
+    "ulice":"Lazecká 70a",
+    "provozovatel":"STK AUTOL OLOMOUC, s.r.o.",
+    "telefon":"585222484",
+    "email":"autolstk@volny.cz",
+    "zpusobile_pct":96.82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.3439631,49.667263 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7312,
+    "docasne_zpusoblile_pocet":482,
+    "nezpusobile_pocet":35,
+    "zpusobile_pocet":6795,
+    "prum_poc_zavad_lehke":1.79,
+    "prum_poc_zavad_vazne":0.25,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Frýdek-Místek",
+    "ulice":"Beskydská 2299",
+    "provozovatel":"AD STK FRÝDEK-MÍSTEK",
+    "telefon":"558 439 355, 558 644 973",
+    "email":"adstk.fm@tiscali.cz",
+    "zpusobile_pct":92.93
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.9805707,49.9532773 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":6,
+    "prum_poc_zavad_lehke":5,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Šumperk",
+    "ulice":"Žerotínova 63",
+    "provozovatel":"TESTCAR s.r.o.",
+    "telefon":"583212821",
+    "email":"sumperk@testcar.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2714109,49.8513406 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6801,
+    "docasne_zpusoblile_pocet":237,
+    "nezpusobile_pocet":10,
+    "zpusobile_pocet":6554,
+    "prum_poc_zavad_lehke":2.34,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Ostrava",
+    "ulice":"Špálova 11",
+    "provozovatel":"STK SAGITA spol. s r.o.",
+    "telefon":"596136727",
+    "email":"stksagitasro@volny.cz",
+    "zpusobile_pct":96.37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.4795356,49.9979616 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6590,
+    "docasne_zpusoblile_pocet":384,
+    "nezpusobile_pocet":18,
+    "zpusobile_pocet":6188,
+    "prum_poc_zavad_lehke":2.34,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Bruntál",
+    "ulice":"Krnovská 16a",
+    "provozovatel":"STK START CENTRUM BRUNTÁL s.r.o.",
+    "telefon":"723342400",
+    "email":"prijem@stkbruntal.cz",
+    "zpusobile_pct":93.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.868087,49.9447146 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7758,
+    "docasne_zpusoblile_pocet":377,
+    "nezpusobile_pocet":44,
+    "zpusobile_pocet":7337,
+    "prum_poc_zavad_lehke":1.66,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Opava",
+    "ulice":"Slavkovská 39",
+    "provozovatel":"DM BETA s.r.o.",
+    "telefon":"553 625 056, 553 777 406",
+    "email":"stk3810@centrum.cz",
+    "zpusobile_pct":94.57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.527666,49.8612207 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":3,
+    "prum_poc_zavad_lehke":1.33,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Karviná",
+    "ulice":"Bohumínská 1876",
+    "provozovatel":"TKLAS Karviná s.r.o.",
+    "telefon":"596382202",
+    "email":"tklas@volny.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.4566333,49.4323331 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":7,
+    "prum_poc_zavad_lehke":0.29,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Přerov",
+    "ulice":"Lověšice 258/III",
+    "provozovatel":"TESTCAR s.r.o.",
+    "telefon":"581209536",
+    "email":"prerov@testcar.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7121489,49.5528569 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4228,
+    "docasne_zpusoblile_pocet":371,
+    "nezpusobile_pocet":36,
+    "zpusobile_pocet":3821,
+    "prum_poc_zavad_lehke":1.19,
+    "prum_poc_zavad_vazne":0.37,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Hranice",
+    "ulice":"Hranická 505",
+    "provozovatel":"ELEKTRO-LUMEN, s.r.o.",
+    "telefon":"581 699 426 - 7",
+    "email":"stk@el-lumen.cz",
+    "zpusobile_pct":90.37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.286145,49.7780847 ]
+    },
+    "properties": {
+    "prohlidky_celkem":13260,
+    "docasne_zpusoblile_pocet":511,
+    "nezpusobile_pocet":18,
+    "zpusobile_pocet":12731,
+    "prum_poc_zavad_lehke":2.8,
+    "prum_poc_zavad_vazne":0.12,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Ostrava",
+    "ulice":"U Řeky 660",
+    "provozovatel":"STK-Tajga, Hrabová, s.r.o.",
+    "telefon":"596 734 052, 596 734 053",
+    "email":"stk@stk-tajga.cz",
+    "zpusobile_pct":96.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.0065723,49.6029462 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8469,
+    "docasne_zpusoblile_pocet":996,
+    "nezpusobile_pocet":132,
+    "zpusobile_pocet":7341,
+    "prum_poc_zavad_lehke":1.96,
+    "prum_poc_zavad_vazne":0.39,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Šenov u Nového Jičína",
+    "ulice":"Malostranská 579",
+    "provozovatel":"STK RITZ s.r.o.",
+    "telefon":"556 701 228, 556 720 116",
+    "email":"info@stk-novyjicin.cz",
+    "zpusobile_pct":86.68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.1559063,49.6080141 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":2,
+    "prum_poc_zavad_lehke":0,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Kopřivnice",
+    "ulice":"Dělnická 831",
+    "provozovatel":"TESTCAR s.r.o.",
+    "telefon":"556802608",
+    "email":"koprivnice@testcar.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.965548,49.4639506 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":3,
+    "prum_poc_zavad_lehke":2,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Valašské Meziříčí",
+    "ulice":"Palackého 220",
+    "provozovatel":"TESTCAR s.r.o.",
+    "telefon":"571621251",
+    "email":"valmez@testcar.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.3037741,49.582704 ]
+    },
+    "properties": {
+    "prohlidky_celkem":15,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":15,
+    "prum_poc_zavad_lehke":0.33,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Olomouc",
+    "ulice":"Hamerská 883/5a",
+    "provozovatel":"STK nákladních vozidel Olomouc s.r.o.",
+    "telefon":"585311627",
+    "email":"stk-olomouc@volny.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.9646956,49.3635894 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8989,
+    "docasne_zpusoblile_pocet":740,
+    "nezpusobile_pocet":49,
+    "zpusobile_pocet":8200,
+    "prum_poc_zavad_lehke":1.64,
+    "prum_poc_zavad_vazne":0.22,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Vsetín",
+    "ulice":"Bobrky 2270",
+    "provozovatel":"CAR OK STK s.r.o.",
+    "telefon":"571 411 024",
+    "email":"carok.stk@tiscali.cz",
+    "zpusobile_pct":91.22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.5009813,49.7984397 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4106,
+    "docasne_zpusoblile_pocet":272,
+    "nezpusobile_pocet":103,
+    "zpusobile_pocet":3731,
+    "prum_poc_zavad_lehke":1.96,
+    "prum_poc_zavad_vazne":0.31,
+    "prum_poc_zavad_nebezpecne":0.04,
+    "mesto":"Horní Suchá",
+    "ulice":"ul. 9. května 66",
+    "provozovatel":"AUTO KLUB STONAVA v AČR",
+    "telefon":"596422561",
+    "email":"stk-3820@volny.cz",
+    "zpusobile_pct":90.87
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.3772841,49.8719074 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5633,
+    "docasne_zpusoblile_pocet":305,
+    "nezpusobile_pocet":21,
+    "zpusobile_pocet":5307,
+    "prum_poc_zavad_lehke":1.24,
+    "prum_poc_zavad_vazne":0.16,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Rychvald",
+    "ulice":"Bohumínská 1806",
+    "provozovatel":"TEAM-MAAT, spol. s r.o.",
+    "telefon":"596572214",
+    "email":"stk3821@volny.cz",
+    "zpusobile_pct":94.21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.331296,49.6845857 ]
+    },
+    "properties": {
+    "prohlidky_celkem":12,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":12,
+    "prum_poc_zavad_lehke":1.42,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Sviadnov",
+    "ulice":"Ostravská 264",
+    "provozovatel":"TESTCAR s.r.o.",
+    "telefon":"558436315",
+    "email":"sviadnov@testcar.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.279927,49.8258491 ]
+    },
+    "properties": {
+    "prohlidky_celkem":8,
+    "docasne_zpusoblile_pocet":0,
+    "nezpusobile_pocet":0,
+    "zpusobile_pocet":8,
+    "prum_poc_zavad_lehke":0.62,
+    "prum_poc_zavad_vazne":0,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Ostrava",
+    "ulice":"Vítkovická 3258/9",
+    "provozovatel":"TESTCAR s.r.o.",
+    "telefon":"596635264",
+    "email":"ostrava@testcar.cz",
+    "zpusobile_pct":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.6625369,49.674628 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5190,
+    "docasne_zpusoblile_pocet":806,
+    "nezpusobile_pocet":128,
+    "zpusobile_pocet":4256,
+    "prum_poc_zavad_lehke":2.34,
+    "prum_poc_zavad_vazne":0.67,
+    "prum_poc_zavad_nebezpecne":0.04,
+    "mesto":"Třinec",
+    "ulice":"Frýdecká 272",
+    "provozovatel":"STK Třinec s.r.o.",
+    "telefon":"558996141",
+    "email":"stk-trinec@seznam.cz",
+    "zpusobile_pct":82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2057664,49.8991016 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4554,
+    "docasne_zpusoblile_pocet":211,
+    "nezpusobile_pocet":5,
+    "zpusobile_pocet":4338,
+    "prum_poc_zavad_lehke":1.87,
+    "prum_poc_zavad_vazne":0.15,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Hlučín",
+    "ulice":"Markvartovická 7",
+    "provozovatel":"STK-Ostrava s.r.o.",
+    "telefon":"595 042 786",
+    "email":"hlucin@stk-ostrava.cz",
+    "zpusobile_pct":95.26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.4428548,49.4652447 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6628,
+    "docasne_zpusoblile_pocet":271,
+    "nezpusobile_pocet":59,
+    "zpusobile_pocet":6298,
+    "prum_poc_zavad_lehke":2.26,
+    "prum_poc_zavad_vazne":0.14,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Přerov",
+    "ulice":"Teličkova 35",
+    "provozovatel":"KOVET spol. s r.o.",
+    "telefon":"581 211 845, 581 702 314",
+    "email":"kovet@volny.cz",
+    "zpusobile_pct":95.02
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.9170755,49.9351134 ]
+    },
+    "properties": {
+    "prohlidky_celkem":9728,
+    "docasne_zpusoblile_pocet":415,
+    "nezpusobile_pocet":79,
+    "zpusobile_pocet":9234,
+    "prum_poc_zavad_lehke":1.65,
+    "prum_poc_zavad_vazne":0.17,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Opava",
+    "ulice":"Těšínská 2868/37A",
+    "provozovatel":"OP KONTROL spol. s r.o.",
+    "telefon":"553609254",
+    "email":"stk.vavra@tqm.cz",
+    "zpusobile_pct":94.92
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2067206,49.539558 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6324,
+    "docasne_zpusoblile_pocet":374,
+    "nezpusobile_pocet":51,
+    "zpusobile_pocet":5899,
+    "prum_poc_zavad_lehke":2.34,
+    "prum_poc_zavad_vazne":0.18,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Frenštát pod Radhoštěm",
+    "ulice":"Martinská čtvrť 1705",
+    "provozovatel":"STK FREN s.r.o.",
+    "telefon":"556836941",
+    "email":"stkfren@seznam.cz",
+    "zpusobile_pct":93.28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.1953266,49.8335921 ]
+    },
+    "properties": {
+    "prohlidky_celkem":11158,
+    "docasne_zpusoblile_pocet":763,
+    "nezpusobile_pocet":24,
+    "zpusobile_pocet":10371,
+    "prum_poc_zavad_lehke":2.08,
+    "prum_poc_zavad_vazne":0.19,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Ostrava",
+    "ulice":"Třebovická 5556/1b",
+    "provozovatel":"STK - Ostrava s.r.o.",
+    "telefon":"596 966 300",
+    "email":"trebovice@stk-ostrava.cz",
+    "zpusobile_pct":92.95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7205453,50.0919235 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4318,
+    "docasne_zpusoblile_pocet":362,
+    "nezpusobile_pocet":53,
+    "zpusobile_pocet":3903,
+    "prum_poc_zavad_lehke":0.93,
+    "prum_poc_zavad_vazne":0.24,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Krnov",
+    "ulice":"Ve Vrbině 4",
+    "provozovatel":"VESTAP - výstavba domů a bytů s.r.o.",
+    "telefon":"554611413",
+    "email":"stkkrnov@seznam.cz",
+    "zpusobile_pct":90.39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.4714672,50.0055074 ]
+    },
+    "properties": {
+    "prohlidky_celkem":2112,
+    "docasne_zpusoblile_pocet":297,
+    "nezpusobile_pocet":25,
+    "zpusobile_pocet":1790,
+    "prum_poc_zavad_lehke":2.61,
+    "prum_poc_zavad_vazne":0.5,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Bruntál",
+    "ulice":"Zahradní 1925/44a",
+    "provozovatel":"JV FOODS, spol. s r.o.",
+    "telefon":"554713008",
+    "email":"stk3831@seznam.cz",
+    "zpusobile_pct":84.75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.5561314,49.8433099 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3206,
+    "docasne_zpusoblile_pocet":345,
+    "nezpusobile_pocet":54,
+    "zpusobile_pocet":2807,
+    "prum_poc_zavad_lehke":1.11,
+    "prum_poc_zavad_vazne":0.36,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Karviná",
+    "ulice":"Za Splavem 884",
+    "provozovatel":"TKLAS Karviná, s.r.o.",
+    "telefon":"596318844",
+    "email":"tklas@volny.cz",
+    "zpusobile_pct":87.55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.3862911,49.8297629 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5557,
+    "docasne_zpusoblile_pocet":232,
+    "nezpusobile_pocet":21,
+    "zpusobile_pocet":5304,
+    "prum_poc_zavad_lehke":1.46,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Petřvald",
+    "ulice":"Ostravská 1833",
+    "provozovatel":"Jaroslav Janči, s.r.o.",
+    "telefon":"596530300",
+    "email":"info@stk-petrvald.cz",
+    "zpusobile_pct":95.45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2693699,49.7775427 ]
+    },
+    "properties": {
+    "prohlidky_celkem":10908,
+    "docasne_zpusoblile_pocet":472,
+    "nezpusobile_pocet":11,
+    "zpusobile_pocet":10425,
+    "prum_poc_zavad_lehke":3,
+    "prum_poc_zavad_vazne":0.12,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Ostrava",
+    "ulice":"Krmelínská 13",
+    "provozovatel":"STK - Ostrava s.r.o.",
+    "telefon":"596728500",
+    "email":"hrabova@stk-ostrava.cz",
+    "zpusobile_pct":95.57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.8852428,49.8796701 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4185,
+    "docasne_zpusoblile_pocet":301,
+    "nezpusobile_pocet":100,
+    "zpusobile_pocet":3784,
+    "prum_poc_zavad_lehke":3.26,
+    "prum_poc_zavad_vazne":0.26,
+    "prum_poc_zavad_nebezpecne":0.04,
+    "mesto":"Zábřeh",
+    "ulice":"Na Křtaltě 37",
+    "provozovatel":"František Nosálek - Franotrans",
+    "telefon":"583411238",
+    "email":"frano.trans@iol.cz, stk3835@seznam.cz",
+    "zpusobile_pct":90.42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.0332334,49.7576321 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6893,
+    "docasne_zpusoblile_pocet":392,
+    "nezpusobile_pocet":13,
+    "zpusobile_pocet":6488,
+    "prum_poc_zavad_lehke":2.86,
+    "prum_poc_zavad_vazne":0.19,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Velké Albrechtice",
+    "ulice":"Ostravská 309",
+    "provozovatel":"Ester Kučerová",
+    "telefon":"558272444",
+    "email":"info@stk-bilovec.cz",
+    "zpusobile_pct":94.12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.3898635,49.7918837 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5961,
+    "docasne_zpusoblile_pocet":434,
+    "nezpusobile_pocet":52,
+    "zpusobile_pocet":5475,
+    "prum_poc_zavad_lehke":2.12,
+    "prum_poc_zavad_vazne":0.28,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Šenov",
+    "ulice":"Pod Šodkem 1618",
+    "provozovatel":"Radomír Skopek",
+    "telefon":"596891192",
+    "email":"autoskopek2004@volny.cz",
+    "zpusobile_pct":91.85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.8914319,49.8852843 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5163,
+    "docasne_zpusoblile_pocet":340,
+    "nezpusobile_pocet":29,
+    "zpusobile_pocet":4794,
+    "prum_poc_zavad_lehke":2.58,
+    "prum_poc_zavad_vazne":0.2,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Zábřeh",
+    "ulice":"Lesnická 2179/2a",
+    "provozovatel":"Autocentrum Zábřeh s.r.o.",
+    "telefon":"583499499",
+    "email":"kasparj@stkzabreh.cz",
+    "zpusobile_pct":92.85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.0374183,49.9573798 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4125,
+    "docasne_zpusoblile_pocet":276,
+    "nezpusobile_pocet":20,
+    "zpusobile_pocet":3829,
+    "prum_poc_zavad_lehke":2.06,
+    "prum_poc_zavad_vazne":0.17,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Štěpánkovice",
+    "ulice":"Slezská 643",
+    "provozovatel":"HARASIM s.r.o.",
+    "telefon":"553675228",
+    "email":"mharasim@stepankovice.cz",
+    "zpusobile_pct":92.82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.7590817,49.5871999 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4344,
+    "docasne_zpusoblile_pocet":520,
+    "nezpusobile_pocet":36,
+    "zpusobile_pocet":3788,
+    "prum_poc_zavad_lehke":3.01,
+    "prum_poc_zavad_vazne":0.54,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Návsí",
+    "ulice":"Návsí 976",
+    "provozovatel":"S. B. J. Motocentrum spol. s r.o.",
+    "telefon":"558 340 985",
+    "email":"stk.navsi@atlas.cz",
+    "zpusobile_pct":87.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2511831,49.8352306 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6875,
+    "docasne_zpusoblile_pocet":338,
+    "nezpusobile_pocet":26,
+    "zpusobile_pocet":6511,
+    "prum_poc_zavad_lehke":1.06,
+    "prum_poc_zavad_vazne":0.13,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Ostrava",
+    "ulice":"Oběžná 2086/13",
+    "provozovatel":"TEAM MAAT spol. s r.o.",
+    "telefon":"596118487",
+    "email":"stk@stkok.cz",
+    "zpusobile_pct":94.71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.2577011,49.5709507 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7292,
+    "docasne_zpusoblile_pocet":425,
+    "nezpusobile_pocet":25,
+    "zpusobile_pocet":6842,
+    "prum_poc_zavad_lehke":2.68,
+    "prum_poc_zavad_vazne":0.2,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Olomouc",
+    "ulice":"Slavonínská 5",
+    "provozovatel":"EURO - PROFICAR s.r.o.",
+    "telefon":"585414608",
+    "email":"stk.eurocar@seznam.cz",
+    "zpusobile_pct":93.83
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.9624842,49.9537843 ]
+    },
+    "properties": {
+    "prohlidky_celkem":5972,
+    "docasne_zpusoblile_pocet":535,
+    "nezpusobile_pocet":48,
+    "zpusobile_pocet":5389,
+    "prum_poc_zavad_lehke":3.33,
+    "prum_poc_zavad_vazne":0.25,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Šumperk",
+    "ulice":"Jesenická 3071/1D",
+    "provozovatel":"Expres Commercio s.r.o.",
+    "telefon":"583222200",
+    "email":"exprescom.stk@seznam.cz",
+    "zpusobile_pct":90.24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.9527971,49.4666509 ]
+    },
+    "properties": {
+    "prohlidky_celkem":9605,
+    "docasne_zpusoblile_pocet":654,
+    "nezpusobile_pocet":55,
+    "zpusobile_pocet":8896,
+    "prum_poc_zavad_lehke":1.72,
+    "prum_poc_zavad_vazne":0.25,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Poličná",
+    "ulice":"Poličná 508",
+    "provozovatel":"AMG CENTRUM, s.r.o.",
+    "telefon":"571611122",
+    "email":"stkvm@seznam.cz",
+    "zpusobile_pct":92.62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.0718322,49.7003131 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6883,
+    "docasne_zpusoblile_pocet":686,
+    "nezpusobile_pocet":93,
+    "zpusobile_pocet":6104,
+    "prum_poc_zavad_lehke":2.66,
+    "prum_poc_zavad_vazne":0.34,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Litovel",
+    "ulice":"Příčná 1269/11",
+    "provozovatel":"J&J Kreuzberg spol. s r.o.",
+    "telefon":"585 341 253, 585 343 096",
+    "email":"vladimir.jasek@iex.cz",
+    "zpusobile_pct":88.68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5778994,49.5249645 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6015,
+    "docasne_zpusoblile_pocet":313,
+    "nezpusobile_pocet":41,
+    "zpusobile_pocet":5661,
+    "prum_poc_zavad_lehke":2.17,
+    "prum_poc_zavad_vazne":0.16,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Lipník nad Bečvou",
+    "ulice":"Na Zelince 1537",
+    "provozovatel":"Kovet spol. s.r.o.",
+    "telefon":"581701731",
+    "email":"stklipnik@kovet.cz",
+    "zpusobile_pct":94.11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.1464455,49.5975269 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6194,
+    "docasne_zpusoblile_pocet":465,
+    "nezpusobile_pocet":40,
+    "zpusobile_pocet":5689,
+    "prum_poc_zavad_lehke":1.86,
+    "prum_poc_zavad_vazne":0.24,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Kopřivnice",
+    "ulice":"Štefánikova 221/20",
+    "provozovatel":"STK KOPR s.r.o.",
+    "telefon":"556821690",
+    "email":"stk5@seznam.cz",
+    "zpusobile_pct":91.85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.3261652,49.6752283 ]
+    },
+    "properties": {
+    "prohlidky_celkem":11072,
+    "docasne_zpusoblile_pocet":551,
+    "nezpusobile_pocet":11,
+    "zpusobile_pocet":10510,
+    "prum_poc_zavad_lehke":1.96,
+    "prum_poc_zavad_vazne":0.17,
+    "prum_poc_zavad_nebezpecne":0,
+    "mesto":"Frýdek-Místek",
+    "ulice":"17. listopadu 2269",
+    "provozovatel":"MPS KONTROL s.r.o.",
+    "telefon":"558431243",
+    "email":"info@stk-frydekmistek.cz",
+    "zpusobile_pct":94.92
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.4098534,49.7892866 ]
+    },
+    "properties": {
+    "prohlidky_celkem":7483,
+    "docasne_zpusoblile_pocet":398,
+    "nezpusobile_pocet":54,
+    "zpusobile_pocet":7031,
+    "prum_poc_zavad_lehke":2.87,
+    "prum_poc_zavad_vazne":0.14,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Havířov",
+    "ulice":"Železničářů 1529/1c",
+    "provozovatel":"KTS servis s.r.o.",
+    "telefon":"596314448",
+    "email":"stk.havirov@seznam.cz",
+    "zpusobile_pct":93.96
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.3013535,49.5709003 ]
+    },
+    "properties": {
+    "prohlidky_celkem":20331,
+    "docasne_zpusoblile_pocet":734,
+    "nezpusobile_pocet":81,
+    "zpusobile_pocet":19516,
+    "prum_poc_zavad_lehke":2.45,
+    "prum_poc_zavad_vazne":0.12,
+    "prum_poc_zavad_nebezpecne":0.01,
+    "mesto":"Olomouc",
+    "ulice":"Týnecká 833/39",
+    "provozovatel":"STK \"Na Přerovské\" s.r.o.",
+    "telefon":"585155472",
+    "email":"stk.naprerovske@seznam.cz",
+    "zpusobile_pct":95.99
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.4608564,49.9873801 ]
+    },
+    "properties": {
+    "prohlidky_celkem":4748,
+    "docasne_zpusoblile_pocet":171,
+    "nezpusobile_pocet":82,
+    "zpusobile_pocet":4495,
+    "prum_poc_zavad_lehke":4.68,
+    "prum_poc_zavad_vazne":0.11,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Bruntál",
+    "ulice":"Ruská 10",
+    "provozovatel":"Zdeněk Mlynarčík",
+    "telefon":"554212024",
+    "email":"stkbruntal.ruska10@email.cz",
+    "zpusobile_pct":94.67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.5299526,49.8539137 ]
+    },
+    "properties": {
+    "prohlidky_celkem":3670,
+    "docasne_zpusoblile_pocet":448,
+    "nezpusobile_pocet":69,
+    "zpusobile_pocet":3153,
+    "prum_poc_zavad_lehke":1.43,
+    "prum_poc_zavad_vazne":0.36,
+    "prum_poc_zavad_nebezpecne":0.02,
+    "mesto":"Karviná",
+    "ulice":"Ostravská 1946/12",
+    "provozovatel":"STK EMISE, s.r.o.",
+    "telefon":"734750200",
+    "email":"stkemise@post.cz",
+    "zpusobile_pct":85.91
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.3565476,49.6606344 ]
+    },
+    "properties": {
+    "prohlidky_celkem":6556,
+    "docasne_zpusoblile_pocet":512,
+    "nezpusobile_pocet":143,
+    "zpusobile_pocet":5901,
+    "prum_poc_zavad_lehke":3.53,
+    "prum_poc_zavad_vazne":0.22,
+    "prum_poc_zavad_nebezpecne":0.03,
+    "mesto":"Český Těšín",
+    "ulice":"Frýdlanská 1978",
+    "provozovatel":"KTS servis s.r.o.",
+    "telefon":"734755200",
+    "email":"stkceskytesin@seznam.cz",
+    "zpusobile_pct":90.01
+    }
+  }
+]
+}
